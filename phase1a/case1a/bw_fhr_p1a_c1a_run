@@ -1,9 +1,9 @@
 #!/bin/bash
 #PBS -l nodes=32:ppn=32:xe
-#PBS -l walltime=00:30:00
+#PBS -l walltime=02:30:00
 #PBS -N fhr_p1a_c1a
 #PBS -j oe
-#PBS -q debug
+#PBS -q normal
 #PBS -A bbcc
 
 # NOTE: lines that begin with "#PBS" are not interpreted by the shell but ARE
