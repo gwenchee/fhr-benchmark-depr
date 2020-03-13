@@ -27,6 +27,9 @@ OpenMC settings + geometry + materials xml input files combined
 9) input_fhr_p1a_c1a_run9
     - 400 batches, 100 inactive cycles, 10000 particles 
     - same as run1, thickness = 35 triso particles (vs 1 triso particle in run1)   
+9) input_fhr_p1a_c1a_run10
+    - 400 batches, 100 inactive cycles, 10000 particles 
+    - same as run1, thickness = 101 triso particles (vs 1 triso particle in run1)   
 
 Results: 
 1) results_fhr_p1a_c1a_run1
@@ -53,6 +56,9 @@ Results:
 8) results_fhr_p1a_c1a_run8
     -  Combined k-effective        = 1.40778 +/- 0.00055
     -  Total time elapsed                = 4.9525e+02 seconds
-8) results_fhr_p1a_c1a_run8
+9) results_fhr_p1a_c1a_run9
     -  Combined k-effective        = 1.40836 +/- 0.00056
     -  Total time elapsed                = 4.9263e+02 seconds
+10) results_fhr_p1a_c1a_run10
+    -  Combined k-effective        = 1.40710 +/- 0.00049
+    -  Total time elapsed                = 4.8274e+02 seconds
