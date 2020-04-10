@@ -12,7 +12,7 @@
     <nuclide name="U235" ao="0.00498781" />
     <nuclide name="U238" ao="0.02001094" />
     <nuclide name="O16" ao="0.03566255" />
-    <nuclide name="C12" ao="0.0098092" />
+    <nuclide name="C0" ao="0.0098092" />
   </material>
   <material id="3" temperature="948">
     <density value="1" units="g/cc" />
