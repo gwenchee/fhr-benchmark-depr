@@ -31,7 +31,9 @@ OpenMC settings + geometry + materials xml input files combined
     - 400 batches, 100 inactive cycles, 10000 particles 
     - same as run1, thickness = 101 triso particles (vs 1 triso particle in run1)   
 11) input_fhr_p1a_c1a_run11
-    - 500 batches, 100 inactive cycles, 200000 particles, 101 triso
+    - 500 batches, 100 inactive cycles, 200000 particles, 101 triso, Tfuel = 1110K
+12) input_fhr_p1a_c1a_run12
+    - 500 batches, 100 inactive cycles, 200000 particles, 101 triso, Tfuel = 1160K
 
 Results: 
 1) results_fhr_p1a_c1a_run1
