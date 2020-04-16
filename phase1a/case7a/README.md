@@ -8,3 +8,5 @@ OpenMC settings + geometry + materials xml input files combined
 
 Results: 
 1) results_fhr_p1a_c7a_run1
+    -  Combined k-effective        = 1.50614 +/- 0.00010
+    -  Total time elapsed                = 6.8587e+03 seconds
