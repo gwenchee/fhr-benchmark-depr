@@ -25,9 +25,9 @@
   <material id="5" temperature="948">
     <density value="1.8" units="g/cc" />
     <nuclide name="C0" ao="0.09025164" />
-    <nuclide name="Eu151" ao="0.00817951" />
-    <nuclide name="Eu153" ao="0.008932435" />
-    <nuclide name="O16" ao="0.0256792" />
+    <nuclide name="Eu151" ao="1.533453e-06" />
+    <nuclide name="Eu153" ao="1.674607e-06" />
+    <nuclide name="O16" ao="4.81209e-06" />
   </material>
   <material id="6" temperature="948">
     <density value="1.8" units="g/cc" />
