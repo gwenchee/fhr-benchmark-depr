@@ -69,3 +69,6 @@ Results:
 11) results_fhr_p1a_c1a_run11
     -  Combined k-effective        = 1.40800 +/- 0.00010
     -  Total time elapsed                = 8.2869e+03 seconds
+11) results_fhr_p1a_c1a_run12
+    - Combined k-effective        = 1.40493 +/- 0.00011
+    - Total time elapsed                = 8.6255e+03 seconds
