@@ -4,6 +4,9 @@
   <particles>200000</particles>
   <batches>500</batches>
   <inactive>100</inactive>
+  <output>
+    <tallies>true</tallies>
+  </output>
   <temperature_method>interpolation</temperature_method>
   <temperature_multipole>true</temperature_multipole>
 </settings>
