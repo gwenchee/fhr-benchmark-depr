@@ -37,6 +37,8 @@ OpenMC settings + geometry + materials xml input files combined
 13) input_fhr_p1a_c1a_run13
     - 500 batches, 100 inactive cycles, 200000 particles, 101 triso, Tfuel = 1110K
     - tallies file (phase 1a)
+14) input_fhr_p1a_c1a_run14
+    - 500 batches, 100 inactive cycles, 1000000 particles, 101 triso, Tfuel = 1110K
 
 Results: 
 1) results_fhr_p1a_c1a_run1
