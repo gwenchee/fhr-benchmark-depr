@@ -97,6 +97,21 @@ def flux_conv(df,sp_power,k,kerr):
 
 
 def beta_b(beta,sp): 
+    """Returns Beta-effective
+
+    Parameters
+    ----------
+    beta: openmc.mgxs.mdgxs.Beta
+    sp: openmc.statepoint.StatePoint
+
+    Returns
+    -------
+    beff: float 
+        mass of Uranium [metric tonnes]
+    beff_err: float 
+        power of reactor [W]
+    """
+
     beta.load_from_statepoint(sp)
     beta.build_hdf5_store(filename='mgxs', append=True)
     df = beta.get_pandas_dataframe()
