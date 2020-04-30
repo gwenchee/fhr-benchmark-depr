@@ -1,0 +1,14 @@
+import openmc
+import sys
+sys.path.insert(1, '../../scripts/')
+from constants import *
+from openmc_analysis import *
+
+# Load the last statepoint file
+sp = openmc.StatePoint('statepoint.10.h5')
+
+print(beta_b(beta,sp))
+fission_density_c(sp,'c1a')
+neutron_flux_d(sp,1.47061,0.003776,'c1a')
+neutron_flux_e(sp,1.47061,'c1a')
+neutron_spectrum_f(sp,'c1a')
