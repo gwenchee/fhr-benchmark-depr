@@ -18,7 +18,7 @@ from openmc_analysis import *
 #                      Run
 ###############################################################################
 
-sp = openmc.StatePoint('statepoint.10.h5')
+sp = openmc.StatePoint('run13_statepoint.500.h5')
 print(beta_b(beta,sp))
 fission_density_c(sp,'c1a')
 neutron_flux_d(sp,1.47061,0.003776,'c1a')
