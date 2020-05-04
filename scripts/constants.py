@@ -5,6 +5,7 @@ set up the FHR benchmark geometry.
 
 """
 
+import numpy as np
 from numpy import sin, cos, tan, pi
 import openmc
 
@@ -355,3 +356,15 @@ T['A3']['F'] = {'x':F_F_gap_A3_adj+F_A3_width_adj, 'y':F_F_gap_A3_opp+F_A3_width
 T['A1']['S'] = {'x':-S_S_gap, 'y':0}
 T['A2']['S'] = {'x':S_S_gap*cos(pi/3), 'y':S_S_gap*sin(pi/3)}
 T['A3']['S'] = {'x':S_S_gap*cos(pi/3), 'y':-S_S_gap*sin(pi/3)}
+
+
+###############################################################################
+#                           Depletion Constants
+###############################################################################
+tU = 0.0012274 # metric tonnes, from the reactor_power function in openmc_analysis.py
+power_GW = 245.486e-6 #GW, from the reactor_power function in openmc_analysis.py
+bu = np.array([0.1,0.5, 1, 2, 4, 6, 8, 10, 12, 14, 16, 18, 
+               20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 
+               42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 
+               64, 66, 68, 70]) #Gwd/tU
+dep_time = tU * bu / power_GW # days

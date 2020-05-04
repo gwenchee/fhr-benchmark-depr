@@ -21,10 +21,10 @@ from tallies import *
 ###############################################################################
 
 # OpenMC simulation parameters
-batches = 500
-inactive = 100
-particles = 1000000
-tallies_on = True
+batches = 10
+inactive = 1
+particles = 100
+tallies_on = False
 
 ###############################################################################
 #                 Exporting to OpenMC materials.xml file
@@ -37,6 +37,7 @@ uoc_9.add_nuclide('U238', 2.269476e-2)
 uoc_9.add_nuclide('O16', 3.561871e-2)
 uoc_9.add_nuclide('C0',9.79714e-3)
 uoc_9.temperature = 1110 
+uoc_9.volume = 4/3 * pi * (T_r1 **3) * 101 * 210 * 4 * 36
 
 por_c = openmc.Material()
 por_c.set_density('g/cc',1)
