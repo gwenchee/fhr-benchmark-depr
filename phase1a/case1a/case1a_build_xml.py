@@ -21,10 +21,10 @@ from tallies import *
 ###############################################################################
 
 # OpenMC simulation parameters
-batches = 10
-inactive = 1
-particles = 100
-tallies_on = False
+batches = 500
+inactive = 100
+particles = 2000000
+tallies_on = True
 
 ###############################################################################
 #                 Exporting to OpenMC materials.xml file
