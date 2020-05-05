@@ -23,7 +23,7 @@ from tallies import *
 # OpenMC simulation parameters
 batches = 500
 inactive = 100
-particles = 2000000
+particles = 1000000
 tallies_on = True
 
 ###############################################################################
@@ -110,6 +110,7 @@ top_surface = openmc.ZPlane(z0=T_pitch/2+(z_thickness-1)/2*T_pitch, boundary_typ
 bot_surface = openmc.ZPlane(z0=-(T_pitch/2+(z_thickness-1)/2*T_pitch), boundary_type='reflective')
 
 ## Outermost Hexagon
+"""
 H_m = 1/tan(pi/6)
 H_1 = openmc.YPlane(0.5*H_side/tan(pi/6),'periodic')
 H_2 = plane(-H_m, 0.5*H_side, 0.5*H_side/tan(pi/6),'periodic')
@@ -122,7 +123,12 @@ H_2.periodic_surface = H_5
 H_3.periodic_surface = H_6
 H_region = -H_1 & +H_4 & -H_2 & +H_3 & +H_5 & -H_6
 H_cell = openmc.Cell(fill=graphite)
-H_cell.region = H_region &-top_surface &+ bot_surface
+H_cell.region = H_region &-top_surface &+ bot_surface"""
+H_cell = openmc.Cell(fill=graphite)
+H_cell.region = openmc.model.hexagonal_prism(
+    edge_length=H_side,
+    orientation = 'x',
+    boundary_type='reflective') &- top_surface &+ bot_surface
 
 ## Diamond Plank Area
 A1_D_cell = openmc.Cell(fill=flibe)
