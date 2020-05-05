@@ -1,5 +1,5 @@
 #!/bin/bash
-#PBS -l nodes=32:ppn=32:xe
+#PBS -l nodes=64:ppn=32:xe
 #PBS -l walltime=50:00:00
 #PBS -N fhr_p1a_c1a
 #PBS -j oe
@@ -45,4 +45,4 @@ module load cmake/3.9.4
 module load cray-hdf5-parallel
 export CXX=CC
 
-aprun -n 32 -d 32 openmc -s 32 
+aprun -n 64 -d 32 openmc -s 32 
