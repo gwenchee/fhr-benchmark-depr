@@ -12,14 +12,12 @@ import pylab as pl
 import matplotlib.colorbar as cbar
 import pandas as pd
 import matplotlib.pyplot as plt
-from case1a_build_xml import * 
 import sys
 sys.path.insert(1, '../../scripts/')
 from constants import *
 
-
 ###############################################################################
-#                                  Functions
+#                           Criticality Functions
 ###############################################################################
 
 
@@ -170,9 +168,10 @@ def fission_density_c(sp,case):
     df = df.set_index(['Stripe','Region'])
     ave = df['mean'].mean()
     df['Fission Density'] = df['mean']/ave
-    ave_sd = np.sqrt(((df['mean'] - ave)**2).mean())
-    df['FD std dev'] = np.sqrt((df['std. dev.']/df['mean'])**2 + (ave_sd/ave)**2)
-    df['Relative unc.'] =  df['FD std dev']/df['Fission Density']*100
+    #ave_sd = np.sqrt(((df['mean'] - ave)**2).mean())
+    ave_sd = 1/(len(df['mean'])) * np.sqrt(np.sum(df['std. dev.']**2))
+    df['FD std dev'] = df['Fission Density']* np.sqrt((df['std. dev.']/df['mean'])**2 + (ave_sd/ave)**2)
+    df['Relative unc.'] =  df['FD std dev']/df['Fission Density']
     df.to_csv(name+'.csv')
 
     xs = []
@@ -243,7 +242,7 @@ def neutron_flux_d(sp,k,kerr,case):
     df_d = mesh_tally_d.get_pandas_dataframe()
     df_dd = pd.DataFrame(index=['E3','E2','E1'])
     df_dd['flux'], df_dd['flux_err'] = flux_conv(df_d,200,k,kerr)
-    df_dd['relative_err_p'] = df_dd['flux_err'] / df_dd['flux'] * 100
+    df_dd['relative_err_p'] = df_dd['flux_err'] / df_dd['flux'] 
     df_dd = df_dd.reindex(['E1','E2','E3'])
     df_dd.to_csv(name+'.csv')
     return 
@@ -356,3 +355,33 @@ def neutron_spectrum_f(sp,case):
     df_ff_T = df_ff.T
     df_ff_T.to_csv(name+'.csv')
     return 
+
+
+###############################################################################
+#                           Depletion Functions
+###############################################################################
+def drop_burnups(df):
+    for i in df.index:
+        if i not in BUs_sheet: 
+            df = df.drop([i])
+    return df
+
+
+def depletion_keff(results):
+    time, k = results.get_eigenvalue()
+    df_k = pd.DataFrame(index=bu[:np.shape(results.get_atoms("1", 'U235'))[1]])
+    df_k.index.name = 'BU'
+    df_k['k'] = k[:,0]
+    df_k['kerr'] = k[:,1]
+    df_k = drop_burnups(df_k)
+    df_k.to_csv('depletion_analysis/keff.csv')
+    return
+
+def depletion_actinides(results): 
+    df = pd.DataFrame(index=BU[:np.shape(results.get_atoms("1", 'U235'))[1]])
+    df.index.name = 'BU'
+    for a in actinides: 
+        _time, df[a] = results.get_atoms("1", a)
+    df = drop_burnups(df)
+    df.to_csv('actinides.csv')
+    return
