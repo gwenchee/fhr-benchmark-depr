@@ -18,10 +18,13 @@ from openmc_analysis import *
 ###############################################################################
 #                                  Run
 ###############################################################################
+case = '2ah'
+keff = 1.41823
+keff_unc = 0.00003
 
 sp = openmc.StatePoint('h5files/3pcm/fhr_p1a_c2ah_3pcm_statepoint.500.h5')
-beta_b(sp,'c2ah')
-fission_density_c(sp,'c2ah')
-neutron_flux_d(sp,1.41823,0.00003,'c2ah')
-neutron_flux_e(sp,1.41823,'c2ah')
-neutron_spectrum_f(sp,'c2ah')
+beta_b(sp,case)
+fission_density_c(sp,case)
+neutron_flux_d(sp,keff,keff_unc,case)
+neutron_flux_e(sp,keff,case)
+neutron_spectrum_f(sp,case)
