@@ -47,4 +47,4 @@ module load cmake/3.9.4
 module load cray-hdf5-parallel
 export CXX=CC
 
-aprun -b -n 32 -d 32 -- bwpy-environ -- python -c "import numpy"
+aprun -b -n 32 -d 32 -- bwpy-environ -- python -c case1b_deplete.py
