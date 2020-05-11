@@ -168,7 +168,6 @@ def fission_density_c(sp,case):
     df = df.set_index(['Stripe','Region'])
     ave = df['mean'].mean()
     df['Fission Density'] = df['mean']/ave
-    #ave_sd = np.sqrt(((df['mean'] - ave)**2).mean())
     ave_sd = 1/(len(df['mean'])) * np.sqrt(np.sum(df['std. dev.']**2))
     df['FD std dev'] = df['Fission Density']* np.sqrt((df['std. dev.']/df['mean'])**2 + (ave_sd/ave)**2)
     df['Relative unc.'] =  df['FD std dev']/df['Fission Density']
