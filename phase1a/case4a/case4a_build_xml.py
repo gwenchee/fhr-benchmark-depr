@@ -11,6 +11,7 @@ materials.xml, geometry.xml, settings.xml, and tallies.xml
 import openmc
 import numpy as np
 from numpy import sin, cos, tan, pi
+import matplotlib.pyplot as plt
 import sys
 sys.path.insert(1, '../../scripts/')
 from constants import *
@@ -23,7 +24,7 @@ from tallies import *
 # OpenMC simulation parameters
 batches = 500
 inactive = 100
-particles = 200000
+particles = 2000000
 tallies_on = True
 
 ###############################################################################
