@@ -1,5 +1,5 @@
 """
-This python script builds the XML files for case1a of the FHR benchmark 
+This python script builds the XML files for case5a of the FHR benchmark 
 materials.xml, geometry.xml, settings.xml, and tallies.xml 
 
 """
@@ -23,7 +23,7 @@ from tallies import *
 # OpenMC simulation parameters
 batches = 500
 inactive = 100
-particles = 200000
+particles = 2000000
 tallies_on = True
 
 ###############################################################################
