@@ -36,7 +36,7 @@ uoc_9.add_nuclide('U235', 2.27325e-3)
 uoc_9.add_nuclide('U238', 2.269476e-2)
 uoc_9.add_nuclide('O16', 3.561871e-2)
 uoc_9.add_nuclide('C0',9.79714e-3)
-uoc_9.temperature = 1110 
+uoc_9.temperature = 1110 + 50
 uoc_9.volume = 4/3 * pi * (T_r1 **3) * 101 * 210 * 4 * 36
 
 por_c = openmc.Material()
