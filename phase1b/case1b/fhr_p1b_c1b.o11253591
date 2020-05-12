@@ -1,0 +1,371 @@
+----------------------------------------
+Begin Torque Prologue on nid27564
+at Tue May 12 12:21:15 CDT 2020
+Job Id:			11253591.bw
+Username:		chee1
+Group:			ILL_bbcc
+Job name:		fhr_p1b_c1b
+Requested resources:	nodes=32:ppn=32:xe,walltime=00:30:00,neednodes=32:ppn=32:xe
+Queue:			normal
+Account:		bbcc
+End Torque Prologue:  0.101 elapsed
+----------------------------------------
+
+
+
+
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+Rank 31 [Tue May 12 12:24:44 2020] [c1-5c0s0n3] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 4 [Tue May 12 12:24:44 2020] [c3-3c0s6n3] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 23 [Tue May 12 12:24:44 2020] [c5-5c1s1n3] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 16 [Tue May 12 12:24:44 2020] [c1-5c2s4n3] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 3 [Tue May 12 12:24:44 2020] [c3-3c1s4n2] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 9 [Tue May 12 12:24:44 2020] [c0-5c2s3n3] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 12 [Tue May 12 12:24:44 2020] [c0-5c2s2n0] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 24 [Tue May 12 12:24:44 2020] [c5-5c1s0n3] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 25 [Tue May 12 12:24:44 2020] [c3-5c1s0n2] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 26 [Tue May 12 12:24:44 2020] [c3-5c1s0n0] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 5 [Tue May 12 12:24:44 2020] [c5-3c0s7n1] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 8 [Tue May 12 12:24:44 2020] [c3-5c2s2n2] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 29 [Tue May 12 12:24:44 2020] [c1-5c0s1n3] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 30 [Tue May 12 12:24:44 2020] [c1-5c0s0n2] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 15 [Tue May 12 12:24:44 2020] [c0-5c2s4n1] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 7 [Tue May 12 12:24:44 2020] [c0-3c0s4n2] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 22 [Tue May 12 12:24:44 2020] [c3-5c2s4n3] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 1 [Tue May 12 12:24:44 2020] [c3-3c1s4n0] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 21 [Tue May 12 12:24:44 2020] [c3-5c2s4n2] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 27 [Tue May 12 12:24:44 2020] [c3-5c1s0n1] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 19 [Tue May 12 12:24:44 2020] [c3-5c2s4n0] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 6 [Tue May 12 12:24:44 2020] [c5-3c0s6n0] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 11 [Tue May 12 12:24:44 2020] [c0-5c2s2n3] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 17 [Tue May 12 12:24:44 2020] [c1-5c2s4n0] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 0 [Tue May 12 12:24:44 2020] [c3-3c1s5n1] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 18 [Tue May 12 12:24:44 2020] [c1-5c2s4n1] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 10 [Tue May 12 12:24:44 2020] [c0-5c2s2n2] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 14 [Tue May 12 12:24:44 2020] [c0-5c2s3n0] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 13 [Tue May 12 12:24:44 2020] [c0-5c2s2n1] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 28 [Tue May 12 12:24:44 2020] [c1-5c0s1n2] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 2 [Tue May 12 12:24:44 2020] [c3-3c1s4n1] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 20 [Tue May 12 12:24:44 2020] [c3-5c2s4n1] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+_pmiu_daemon(SIGCHLD): [NID 26387] [c3-3c0s6n3] [Tue May 12 12:24:44 2020] PE RANK 4 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 24413] [c5-5c1s1n3] [Tue May 12 12:24:44 2020] PE RANK 23 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 26697] [c1-5c2s4n3] [Tue May 12 12:24:44 2020] PE RANK 16 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 26376] [c3-3c1s4n2] [Tue May 12 12:24:44 2020] PE RANK 3 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 26325] [c3-3c1s5n1] [Tue May 12 12:24:44 2020] PE RANK 0 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 00953] [c0-5c2s3n3] [Tue May 12 12:24:44 2020] PE RANK 9 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 24415] [c5-5c1s0n3] [Tue May 12 12:24:44 2020] PE RANK 24 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 00868] [c0-5c2s2n0] [Tue May 12 12:24:44 2020] PE RANK 12 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 26272] [c3-5c1s0n2] [Tue May 12 12:24:44 2020] PE RANK 25 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 26298] [c3-5c2s2n2] [Tue May 12 12:24:44 2020] PE RANK 8 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 24369] [c5-3c0s7n1] [Tue May 12 12:24:44 2020] PE RANK 5 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01046] [c0-3c0s4n2] [Tue May 12 12:24:44 2020] PE RANK 7 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 26723] [c1-5c0s1n3] [Tue May 12 12:24:44 2020] PE RANK 29 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 26720] [c1-5c0s0n2] [Tue May 12 12:24:44 2020] PE RANK 30 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 00873] [c0-5c2s4n1] [Tue May 12 12:24:44 2020] PE RANK 15 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 26326] [c3-3c1s4n0] [Tue May 12 12:24:44 2020] PE RANK 1 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 26294] [c3-5c2s4n2] [Tue May 12 12:24:44 2020] PE RANK 21 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 26239] [c3-5c1s0n1] [Tue May 12 12:24:44 2020] PE RANK 27 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 00955] [c0-5c2s2n3] [Tue May 12 12:24:44 2020] PE RANK 11 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 26216] [c3-5c2s4n0] [Tue May 12 12:24:44 2020] PE RANK 19 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 24370] [c5-3c0s6n0] [Tue May 12 12:24:44 2020] PE RANK 6 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 26775] [c1-5c2s4n1] [Tue May 12 12:24:44 2020] PE RANK 18 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 00870] [c0-5c2s3n0] [Tue May 12 12:24:44 2020] PE RANK 14 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 00954] [c0-5c2s2n2] [Tue May 12 12:24:44 2020] PE RANK 10 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 26722] [c1-5c0s1n2] [Tue May 12 12:24:44 2020] PE RANK 28 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 00869] [c0-5c2s2n1] [Tue May 12 12:24:44 2020] PE RANK 13 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 26327] [c3-3c1s4n1] [Tue May 12 12:24:44 2020] PE RANK 2 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 26238] [c3-5c1s0n0] [Tue May 12 12:24:44 2020] PE RANK 26 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 26217] [c3-5c2s4n1] [Tue May 12 12:24:44 2020] PE RANK 20 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 26295] [c3-5c2s4n3] [Tue May 12 12:24:44 2020] PE RANK 22 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 26774] [c1-5c2s4n0] [Tue May 12 12:24:44 2020] PE RANK 17 exit signal Aborted
+[NID 26387] 2020-05-12 12:24:44 Apid 91286060: initiated application termination
+Application 91286060 exit codes: 134
+Application 91286060 exit signals: Killed
+Application 91286060 resources: utime ~6009s, stime ~125s, Rss ~131428, inblocks ~1600583, outblocks ~45908
