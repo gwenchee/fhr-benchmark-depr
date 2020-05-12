@@ -45,8 +45,7 @@ module load bwpy-mpi
 module swap PrgEnv-cray/5.2.82 PrgEnv-gnu
 module load cmake/3.9.4
 module load cray-hdf5-parallel
-export CXX=CC
-export CRAYPE_LINK_TYPE=dynamic
-export CRAY_ADD_RPATH=yes
+
+source /projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/bin/activate
 
 aprun -b -n 32 -d 32 -- bwpy-environ -- python ./case1b_deplete.py
