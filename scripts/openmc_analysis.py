@@ -123,6 +123,36 @@ def beta_b(sp,case):
     return 
 
 
+def reactivity_coefficient_b(keff_og,keff_og_unc,keff_new,keff_new_unc,temp_change):
+    """Generates the reactivity coefficient and its uncertainty
+
+    Parameters
+    ----------
+    keff_og: float 
+        original keff 
+    keff_og_unc: float 
+        original keff's uncertainty 
+    keff_new: float 
+        keff after temperature change
+    keff_og_new: float 
+        keff's uncertainty after temperature change
+    temp_change: float 
+        temperature change (be sure to include +/- sign)
+
+    Returns
+    -------
+    coeff: float 
+        reactivity coefficient
+    coeff_unc: float 
+        reactivity coefficient uncertainty
+    """
+
+    coeff = (keff_new*1e5 - keff_og*1e5) / temp_change
+    coeff_unc = np.sqrt((keff_og_unc*1e5)**2 + (keff_new_unc*1e5)**2) / temp_change
+    
+    return coeff, coeff_unc
+
+
 def fission_density_c(sp,case): 
     """Generates a csv and png file with results of fission source
     distribution by 1/5 stripes for phase 1a-c of the benchmark
@@ -296,21 +326,21 @@ def neutron_flux_e(sp,k,case):
     plt.figure()
     plt.imshow(flux_conv['eg1']/np.mean(flux_conv['eg1']), interpolation='none', origin='lower',cmap='viridis')
     plt.colorbar()
-    plt.title('Energy Group 1 Flux Distribution')
+    plt.title('Case '+case+' Energy Group 1 Flux Distribution')
     plt.savefig(name+'_eg1')
     np.savetxt(name+"_eg1.csv", np.flip(flux_conv['eg1'],0), delimiter=",")
 
     plt.figure()
     plt.imshow(flux_conv['eg2']/np.mean(flux_conv['eg2']), interpolation='none', origin='lower',cmap='viridis')
     plt.colorbar()
-    plt.title('Energy Group 2 Flux Distribution')
+    plt.title('Case '+case+ ' Energy Group 2 Flux Distribution')
     plt.savefig(name+'_eg2')
     np.savetxt(name+"_eg2.csv", np.flip(flux_conv['eg2'],0), delimiter=",")
 
     plt.figure()
     plt.imshow(flux_conv['eg3']/np.mean(flux_conv['eg3']), interpolation='none', origin='lower',cmap='viridis')
     plt.colorbar()
-    plt.title('Energy Group 3 Flux Distribution')
+    plt.title('Case '+case+ ' Energy Group 3 Flux Distribution')
     plt.savefig(name+'_eg3')
     np.savetxt(name+"_eg3.csv", np.flip(flux_conv['eg3'],0), delimiter=",")
     return 
