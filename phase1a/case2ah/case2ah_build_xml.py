@@ -36,7 +36,7 @@ uoc_9.add_nuclide('U235', 2.27325e-3)
 uoc_9.add_nuclide('U238', 2.269476e-2)
 uoc_9.add_nuclide('O16', 3.561871e-2)
 uoc_9.add_nuclide('C0',9.79714e-3)
-uoc_9.temperature = 948 + 50
+uoc_9.temperature = 948 
 uoc_9.volume = 4/3 * pi * (T_r1 **3) * 101 * 210 * 4 * 36
 
 por_c = openmc.Material()
@@ -78,7 +78,7 @@ flibe.add_nuclide('Li6',1.383014e-6)
 flibe.add_nuclide('Li7',2.37132e-2)
 flibe.add_nuclide('Be9',1.18573e-2)
 flibe.add_nuclide('F19',4.74291e-2)
-flibe.temperature = 948
+flibe.temperature = 948 + 50
 
 mhc = openmc.Material()
 mhc.set_density('g/cc', 10.28)
