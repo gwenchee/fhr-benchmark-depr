@@ -1,0 +1,63 @@
+----------------------------------------
+Begin Torque Prologue on nid25332
+at Wed May 13 11:19:25 CDT 2020
+Job Id:			11255057.bw
+Username:		chee1
+Group:			ILL_bbcc
+Job name:		fhr_p1b_c1b
+Requested resources:	nodes=4:ppn=4:xe,walltime=00:30:00,neednodes=4:ppn=4:xe
+Queue:			normal
+Account:		bbcc
+End Torque Prologue:  0.112 elapsed
+----------------------------------------
+
+
+
+
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/mnt/bwpy/mpi/usr/lib/python3.5/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:71: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+Rank 2 [Wed May 13 11:22:52 2020] [c18-3c1s4n0] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 1 [Wed May 13 11:22:52 2020] [c18-3c1s5n1] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 0 [Wed May 13 11:22:52 2020] [c18-3c1s5n0] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+Rank 3 [Wed May 13 11:22:52 2020] [c18-3c1s4n1] Fatal error in MPI_Init: Other MPI error, error stack:
+MPIR_Init_thread(537)..: 
+MPID_Init(296).........: channel initialization failed
+MPIDI_CH3_Init(102)....: 
+MPID_nem_init(367).....: 
+MPID_nem_gni_init(1586): GNI_CdmAttach (GNI_RC_INVALID_STATE)
+_pmiu_daemon(SIGCHLD): [NID 10536] [c18-3c1s4n0] [Wed May 13 11:22:52 2020] PE RANK 2 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 10538] [c18-3c1s5n0] [Wed May 13 11:22:52 2020] PE RANK 0 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 10537] [c18-3c1s4n1] [Wed May 13 11:22:52 2020] PE RANK 3 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 10539] [c18-3c1s5n1] [Wed May 13 11:22:52 2020] PE RANK 1 exit signal Aborted
+[NID 10536] 2020-05-13 11:22:52 Apid 91288898: initiated application termination
+Application 91288898 exit codes: 134
+Application 91288898 resources: utime ~768s, stime ~16s, Rss ~137288, inblocks ~203103, outblocks ~6079
