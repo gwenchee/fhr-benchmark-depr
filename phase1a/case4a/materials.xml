@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <materials>
-  <material id="1" depletable="true" volume="124.50460305036589" temperature="1110">
+  <material id="1" depletable="true" volume="124.50460305036589" temperature="1160">
     <density value="11" units="g/cc" />
     <nuclide name="U235" ao="0.00227325" />
     <nuclide name="U238" ao="0.02269476" />
