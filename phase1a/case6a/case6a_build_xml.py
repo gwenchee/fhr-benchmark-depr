@@ -330,32 +330,3 @@ if tallies_on:
     tallies_generation(root)
 else: 
     print('tallies off')
-
-# Plotting 
-import matplotlib.pyplot as plt
-root = openmc.Universe(cells=[H_cell,D_areas,P_areas,F_areas,S_areas,CS_areas,CA_areas])
-root.plot(width=(1.5, 1.5), basis='xy', color_by = 'material',
-    pixels = (100,100),
-    origin = (-14,-11.1,0),
-    colors = {
-    graphite: 'grey', 
-    p_graphite:'red',
-    flibe: 'blue',
-    lm_graphite: 'green',
-    s_graphite: 'pink'
-})
-plt.savefig('triso2.png')
-
-# Plotting 
-"""
-root = openmc.Universe(cells=[H_cell,D_areas,P_areas,F_areas,S_areas,CS_areas,CA_areas])
-root.plot(width=(60, 60), basis='xy', color_by = 'material',
-    pixels = (300,300),
-    colors = {
-    graphite: 'grey', 
-    p_graphite:'red',
-    flibe: 'blue',
-    lm_graphite: 'green',
-    s_graphite: 'pink'
-})
-plt.savefig('fhr_assembly_2D.png')"""
