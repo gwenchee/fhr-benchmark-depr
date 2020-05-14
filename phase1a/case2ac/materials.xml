@@ -18,23 +18,23 @@
     <nuclide name="Si30" ao="0.0014899" />
     <nuclide name="C0" ao="0.04806117" />
   </material>
-  <material id="4" temperature="773">
+  <material id="4" temperature="823">
     <density value="1.8" units="g/cc" />
     <nuclide name="C0" ao="0.09025164" />
   </material>
-  <material id="5" temperature="773">
+  <material id="5" temperature="823">
     <density value="1.8" units="g/cc" />
     <nuclide name="C0" ao="0.09025164" />
   </material>
-  <material id="6" temperature="773">
+  <material id="6" temperature="823">
     <density value="1.8" units="g/cc" />
     <nuclide name="C0" ao="0.09025164" />
   </material>
-  <material id="7" temperature="773">
+  <material id="7" temperature="823">
     <density value="1.8" units="g/cc" />
     <nuclide name="C0" ao="0.09025164" />
   </material>
-  <material id="8" temperature="823">
+  <material id="8" temperature="773">
     <density value="1.95" units="g/cc" />
     <nuclide name="Li6" ao="1.383014e-06" />
     <nuclide name="Li7" ao="0.0237132" />
