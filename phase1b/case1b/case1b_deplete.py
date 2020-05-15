@@ -7,7 +7,7 @@ benchmark.
 ###############################################################################
 #                      Python Package Import
 ###############################################################################
-
+import mpi4py.MPI
 import openmc.deplete
 from case1a_build_xml import * 
 
@@ -19,7 +19,7 @@ chain = openmc.deplete.Chain.from_xml("../../data/chain_endfb71_pwr.xml")
 
 operator = openmc.deplete.Operator(geom, settings, "../../data/chain_endfb71_pwr.xml")
 
-time_steps = list(dep_time.copy() * 24 * 60 * 60)[:2]
+time_steps = list(dep_time.copy() * 24 * 60 * 60)
 
 integrator = openmc.deplete.PredictorIntegrator(operator, time_steps, power_GW * 1e9)
 integrator.integrate()
