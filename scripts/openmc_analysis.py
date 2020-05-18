@@ -346,7 +346,7 @@ def neutron_flux_e(sp,k,case):
     return 
 
 
-def neutron_spectrum_f(sp,case): 
+def neutron_spectrum_f(sp,case,k,kerr): 
     """Generates a csv file and png file with results of neutron
     spectrum averaged over the fuel assembly. 
 
@@ -373,11 +373,11 @@ def neutron_spectrum_f(sp,case):
         
     df_ff = pd.DataFrame(index=index_list)
 
-    df_ff['flux'], df_ff['flux_err'] = flux_conv(df_f,200,1.42807,0.003776)
+    df_ff['flux'], df_ff['flux_err'] = flux_conv(df_f,200,k,kerr)
     fluxvals = np.append(np.array(df_ff['flux']),np.array(df_ff['flux'])[0])
     plt.figure()
     plt.semilogx(np.array(engs)/1e6,fluxvals,drawstyle='steps')
-    plt.title('Average neutron spectrum')
+    plt.title('Case '+case+ ' Average neutron spectrum')
     plt.xlabel('energy [MeV]')
     plt.ylabel('flux [$n/cm^2s$]')
     plt.savefig(name)

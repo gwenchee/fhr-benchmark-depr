@@ -33,4 +33,4 @@ print(reactivity_coefficient_b(keff_og=keff,keff_og_unc=keff_unc,keff_new=1.0269
 fission_density_c(sp,case)
 neutron_flux_d(sp,keff,keff_unc,case)
 neutron_flux_e(sp,keff,case)
-neutron_spectrum_f(sp,case)
+neutron_spectrum_f(sp,case,keff,keff_unc)
