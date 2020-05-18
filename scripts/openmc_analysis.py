@@ -380,6 +380,7 @@ def neutron_spectrum_f(sp,case,k,kerr):
     plt.title('Case '+case+ ' Average neutron spectrum')
     plt.xlabel('energy [MeV]')
     plt.ylabel('flux [$n/cm^2s$]')
+    plt.ylim(0, 1.3e13)
     plt.savefig(name)
     df_ff_T = df_ff.T
     df_ff_T.to_csv(name+'.csv')
