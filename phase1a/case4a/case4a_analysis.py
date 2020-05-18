@@ -26,6 +26,8 @@ sp = openmc.StatePoint('h5files/3pcm/statepoint.500.h5')
 beta_b(sp,case)
 # doppler 
 print(reactivity_coefficient_b(keff_og=keff,keff_og_unc=keff_unc,keff_new=1.10302,keff_new_unc=0.00003,temp_change=+50))
+# flibe
+print(reactivity_coefficient_b(keff_og=keff,keff_og_unc=keff_unc,keff_new=1.10485,keff_new_unc=0.00003,temp_change=+50))
 fission_density_c(sp,case)
 neutron_flux_d(sp,keff,keff_unc,case)
 neutron_flux_e(sp,keff,case)

@@ -28,6 +28,8 @@ beta_b(sp,case)
 print(reactivity_coefficient_b(keff_og=keff,keff_og_unc=keff_unc,keff_new=0.85750,keff_new_unc=0.00003,temp_change=+50))
 # flibe 
 print(reactivity_coefficient_b(keff_og=keff,keff_og_unc=keff_unc,keff_new=0.85841,keff_new_unc=0.00003,temp_change=+50))
+# graphite 
+print(reactivity_coefficient_b(keff_og=keff,keff_og_unc=keff_unc,keff_new=0.85154,keff_new_unc=0.00003,temp_change=+50))
 fission_density_c(sp,case)
 neutron_flux_d(sp,keff,keff_unc,case)
 neutron_flux_e(sp,keff,case)

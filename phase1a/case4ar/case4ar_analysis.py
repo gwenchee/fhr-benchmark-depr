@@ -1,5 +1,5 @@
 """
-PHASE 1A CASE 7A 
+PHASE 1A CASE 4AR 
 This python script builds analyzes the tallies from openmc statepoint file 
 and uses functions in scripts/openmc_analysis.py to analyze and manipulate 
 the data into what is required for the FHR benchmark. 
@@ -18,18 +18,14 @@ from openmc_analysis import *
 ###############################################################################
 #                                  Run
 ###############################################################################
-case = '7a'
-keff = 1.50550
+case = '4ar'
+keff = 0.83771
 keff_unc = 0.00003
 
 sp = openmc.StatePoint('h5files/3pcm/statepoint.500.h5')
 beta_b(sp,case)
 # doppler
-print(reactivity_coefficient_b(keff_og=keff,keff_og_unc=keff_unc,keff_new=1.50264,keff_new_unc=0.00003,temp_change=+50))
-# flibe 
-print(reactivity_coefficient_b(keff_og=keff,keff_og_unc=keff_unc,keff_new=1.50548,keff_new_unc=0.00003,temp_change=+50))
-# graphite
-print(reactivity_coefficient_b(keff_og=keff,keff_og_unc=keff_unc,keff_new=1.50493,keff_new_unc=0.00003,temp_change=+50))
+print(reactivity_coefficient_b(keff_og=keff,keff_og_unc=keff_unc,keff_new=0.83600,keff_new_unc=0.00003,temp_change=+50))
 fission_density_c(sp,case)
 neutron_flux_d(sp,keff,keff_unc,case)
 neutron_flux_e(sp,keff,case)
