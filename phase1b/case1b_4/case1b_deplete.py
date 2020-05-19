@@ -7,7 +7,6 @@ benchmark.
 ###############################################################################
 #                      Python Package Import
 ###############################################################################
-import mpi4py.MPI
 import openmc.deplete
 from case1a_build_xml import * 
 

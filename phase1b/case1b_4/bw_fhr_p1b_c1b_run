@@ -1,5 +1,5 @@
 #!/bin/bash
-#PBS -l nodes=64:ppn=32:xe
+#PBS -l nodes=64:ppn=16:xk
 #PBS -l walltime=1:00:00
 #PBS -N fhr_p1b_c1b_4
 #PBS -j oe
@@ -50,15 +50,15 @@ module load cray-mpich/7.5.0
 module load cmake/3.9.4
 module load cray-hdf5
 
-source /projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/build/myvirtualenv/bin/activate
+source /projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/bin/activate
 
 # to debug
-#ulimit -c unlimited
-#export ATP_ENABLED=1
+ulimit -c unlimited
+export ATP_ENABLED=1
 
 # no fork can help debugging
-#export PMI_NO_FORK=1
+export PMI_NO_FORK=1
 
-export OMP_NUM_THREADS=32
+export OMP_NUM_THREADS=16
 
-aprun -b -n 64 -d 32 -- bwpy-environ -- python -u case1b_deplete.py
+aprun -b -n 64 -N1 -d 16 -- bwpy-environ -- python -u case1b_deplete.py
