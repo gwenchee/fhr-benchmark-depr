@@ -7,8 +7,8 @@ import numpy as np
 ###############################################################################
 
 # OpenMC simulation parameters
-batches = 100
-inactive = 10
+batches = 10
+inactive = 1
 particles = 1000
 
 # Depletion simulation parameters
