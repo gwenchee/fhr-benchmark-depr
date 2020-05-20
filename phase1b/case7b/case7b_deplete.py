@@ -8,7 +8,7 @@ benchmark.
 #                      Python Package Import
 ###############################################################################
 import openmc.deplete
-from case4a_build_xml import * 
+from case7a_build_xml import * 
 
 ###############################################################################
 #                                  Run
