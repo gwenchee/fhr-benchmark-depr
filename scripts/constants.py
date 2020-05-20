@@ -38,7 +38,7 @@ T_r3 = 3485e-5
 T_r4 = 3835e-5
 T_r5 = 4235e-5
 F_protect_gap = 0.1
-F_width = T_pitch*(4)
+F_width = T_pitch*(8)
 F_len = T_pitch*(210)
 F_A1_D_gap = (D_A1_width-F_len)/2
 F_F_gap = P_A1_height - 2*F_width -2*F_protect_gap
@@ -373,7 +373,7 @@ T['A3']['S'] = {'x':S_S_gap*cos(pi/3), 'y':-S_S_gap*sin(pi/3)}
 ###############################################################################
 tU = 0.0012274 # metric tonnes, from the reactor_power function in openmc_analysis.py
 power_GW = 245.486e-6 #GW, from the reactor_power function in openmc_analysis.py
-bu = np.array([0, 0.1,0.5, 1, 2, 4, 6, 8, 10, 12, 14, 16, 18, 
+bu = np.array([0.1,0.5, 1, 2, 4, 6, 8, 10, 12, 14, 16, 18, 
                20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 
                42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 
                64, 66, 68, 69, 70]) #Gwd/tU
