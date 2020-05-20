@@ -61,4 +61,4 @@ export PMI_NO_FORK=1
 
 export OMP_NUM_THREADS=32
 
-aprun -b -n 1 -N1 -d 32 -- bwpy-environ -- python -u case1b_deplete.py
+aprun -b -n 1 -N1 -d 32 -- bwpy-environ -- python -u case4b_deplete.py
