@@ -1,5 +1,5 @@
 #!/bin/bash
-#PBS -l nodes=64:ppn=16:xk
+#PBS -l nodes=16:ppn=16:xk
 #PBS -l walltime=1:00:00
 #PBS -N fhr_p1b_c1b_4
 #PBS -j oe
@@ -48,9 +48,9 @@ module swap gcc gcc/5.3.0
 module unload cray-mpich
 module load cray-mpich/7.5.0
 module load cmake/3.9.4
-module load cray-hdf5
+module load cray-hdf5-parallel
 
-source /projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/bin/activate
+source /projects/sciteam/bbcc/projects/openmc/openmc-parallel-python/openmc/build/myvirtualenv/bin/activate
 
 # to debug
 ulimit -c unlimited
@@ -61,4 +61,4 @@ export PMI_NO_FORK=1
 
 export OMP_NUM_THREADS=16
 
-aprun -b -n 64 -N1 -d 16 -- bwpy-environ -- python -u case1b_deplete.py
+aprun -b -n 16 -N1 -d 16 -- bwpy-environ -- python -u case1b_deplete.py
