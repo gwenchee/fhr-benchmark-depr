@@ -1,0 +1,226 @@
+----------------------------------------
+Begin Torque Prologue on nid27640
+at Wed May 27 09:51:01 CDT 2020
+Job Id:			11277526.bw
+Username:		chee1
+Group:			ILL_bbcc
+Job name:		fhr_p1b_c1b_8
+Requested resources:	nodes=16:ppn=16:xe,walltime=00:30:00,neednodes=16:ppn=16:xe
+Queue:			normal
+Account:		bbcc
+End Torque Prologue:  0.149 elapsed
+----------------------------------------
+
+
+
+
+Traceback (most recent call last):
+  File "simple_depletion_test.py", line 2, in <module>
+Traceback (most recent call last):
+  File "simple_depletion_test.py", line 2, in <module>
+Traceback (most recent call last):
+  File "simple_depletion_test.py", line 2, in <module>
+Traceback (most recent call last):
+  File "simple_depletion_test.py", line 2, in <module>
+Traceback (most recent call last):
+  File "simple_depletion_test.py", line 2, in <module>
+Traceback (most recent call last):
+  File "simple_depletion_test.py", line 2, in <module>
+Traceback (most recent call last):
+  File "simple_depletion_test.py", line 2, in <module>
+    import openmc.deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/__init__.py", line 21, in <module>
+    import openmc.deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/__init__.py", line 21, in <module>
+    import openmc.deplete
+    import openmc.deplete
+    import openmc.deplete
+    import openmc.deplete
+    import openmc.deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/__init__.py", line 21, in <module>
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/__init__.py", line 21, in <module>
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/__init__.py", line 21, in <module>
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/__init__.py", line 21, in <module>
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/__init__.py", line 21, in <module>
+    from .operator import *
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/operator.py", line 23, in <module>
+    from .operator import *
+    from .operator import *
+    from .operator import *
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/operator.py", line 23, in <module>
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/operator.py", line 23, in <module>
+    from .operator import *
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/operator.py", line 23, in <module>
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/operator.py", line 23, in <module>
+    from .operator import *
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/operator.py", line 23, in <module>
+Traceback (most recent call last):
+  File "simple_depletion_test.py", line 2, in <module>
+    from .operator import *
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/operator.py", line 23, in <module>
+    import openmc.deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/__init__.py", line 21, in <module>
+    from .operator import *
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/operator.py", line 23, in <module>
+    from .abc import TransportOperator, OperatorResult
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/abc.py", line 27, in <module>
+    from .abc import TransportOperator, OperatorResult
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/abc.py", line 27, in <module>
+    from .abc import TransportOperator, OperatorResult
+    from .abc import TransportOperator, OperatorResult
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/abc.py", line 27, in <module>
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/abc.py", line 27, in <module>
+    from .abc import TransportOperator, OperatorResult
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/abc.py", line 27, in <module>
+    from .abc import TransportOperator, OperatorResult
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/abc.py", line 27, in <module>
+    from .abc import TransportOperator, OperatorResult
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/abc.py", line 27, in <module>
+    from .abc import TransportOperator, OperatorResult
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/abc.py", line 27, in <module>
+    from .pool import deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/pool.py", line 56
+    with Pool() as pool:
+       ^
+SyntaxError: invalid syntax
+    from .pool import deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/pool.py", line 56
+    with Pool() as pool:
+       ^
+SyntaxError: invalid syntax
+    from .pool import deplete
+    from .pool import deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/pool.py", line 56
+    with Pool() as pool:
+       ^
+SyntaxError: invalid syntax
+    from .pool import deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/pool.py", line 56
+    with Pool() as pool:
+       ^
+SyntaxError: invalid syntax
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/pool.py", line 56
+    with Pool() as pool:
+       ^
+SyntaxError: invalid syntax
+    from .pool import deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/pool.py", line 56
+    with Pool() as pool:
+       ^
+SyntaxError: invalid syntax
+    from .pool import deplete
+    from .pool import deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/pool.py", line 56
+    with Pool() as pool:
+       ^
+SyntaxError: invalid syntax
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/pool.py", line 56
+    with Pool() as pool:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "simple_depletion_test.py", line 2, in <module>
+    import openmc.deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/__init__.py", line 21, in <module>
+Traceback (most recent call last):
+  File "simple_depletion_test.py", line 2, in <module>
+Traceback (most recent call last):
+  File "simple_depletion_test.py", line 2, in <module>
+Traceback (most recent call last):
+  File "simple_depletion_test.py", line 2, in <module>
+    import openmc.deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/__init__.py", line 21, in <module>
+    from .operator import *
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/operator.py", line 23, in <module>
+    from .operator import *
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/operator.py", line 23, in <module>
+    from .abc import TransportOperator, OperatorResult
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/abc.py", line 27, in <module>
+    from .abc import TransportOperator, OperatorResult
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/abc.py", line 27, in <module>
+    from .pool import deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/pool.py", line 56
+    with Pool() as pool:
+       ^
+SyntaxError: invalid syntax
+    from .pool import deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/pool.py", line 56
+    with Pool() as pool:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "simple_depletion_test.py", line 2, in <module>
+Traceback (most recent call last):
+  File "simple_depletion_test.py", line 2, in <module>
+    import openmc.deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/__init__.py", line 21, in <module>
+    from .operator import *
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/operator.py", line 23, in <module>
+    from .abc import TransportOperator, OperatorResult
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/abc.py", line 27, in <module>
+    from .pool import deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/pool.py", line 56
+    with Pool() as pool:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "simple_depletion_test.py", line 2, in <module>
+Traceback (most recent call last):
+  File "simple_depletion_test.py", line 2, in <module>
+    import openmc.deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/__init__.py", line 21, in <module>
+    from .operator import *
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/operator.py", line 23, in <module>
+    from .abc import TransportOperator, OperatorResult
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/abc.py", line 27, in <module>
+    from .pool import deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/pool.py", line 56
+    with Pool() as pool:
+       ^
+SyntaxError: invalid syntax
+    import openmc.deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/__init__.py", line 21, in <module>
+    import openmc.deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/__init__.py", line 21, in <module>
+    from .operator import *
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/operator.py", line 23, in <module>
+    import openmc.deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/__init__.py", line 21, in <module>
+    import openmc.deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/__init__.py", line 21, in <module>
+    from .operator import *
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/operator.py", line 23, in <module>
+    from .operator import *
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/operator.py", line 23, in <module>
+    from .abc import TransportOperator, OperatorResult
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/abc.py", line 27, in <module>
+    from .operator import *
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/operator.py", line 23, in <module>
+    from .abc import TransportOperator, OperatorResult
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/abc.py", line 27, in <module>
+    from .pool import deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/pool.py", line 56
+    with Pool() as pool:
+    from .abc import TransportOperator, OperatorResult
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/abc.py", line 27, in <module>
+    from .abc import TransportOperator, OperatorResult
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/abc.py", line 27, in <module>
+    from .pool import deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/pool.py", line 56
+    from .pool import deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/pool.py", line 56
+    with Pool() as pool:
+       ^
+SyntaxError: invalid syntax
+    from .pool import deplete
+  File "/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/deplete/pool.py", line 56
+    with Pool() as pool:
+       ^
+SyntaxError: invalid syntax
+       ^
+SyntaxError: invalid syntax
+    with Pool() as pool:
+       ^
+SyntaxError: invalid syntax
+Application 91404112 exit codes: 1
+Application 91404112 resources: utime ~32s, stime ~58s, Rss ~114832, inblocks ~708067, outblocks ~15454
