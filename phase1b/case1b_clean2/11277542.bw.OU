@@ -1,0 +1,2194 @@
+----------------------------------------
+Begin Torque Prologue on nid27638
+at Wed May 27 10:31:21 CDT 2020
+Job Id:			11277542.bw
+Username:		chee1
+Group:			ILL_bbcc
+Job name:		fhr_p1b_c1b_clean2
+Requested resources:	nodes=32:ppn=32:xe,walltime=00:30:00,neednodes=32:ppn=32:xe
+Queue:			normal
+Account:		bbcc
+End Torque Prologue:  0.094 elapsed
+----------------------------------------
+
+
+
+
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/surface.py:63: FutureWarning: "YPlane(...) accepts keyword arguments only for 'boundary_type'. Future versions of OpenMC will not accept positional parameters for superclass arguments.
+  warn(_WARNING_KWARGS.format(cls.__name__, k), FutureWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+/projects/sciteam/bbcc/projects/openmc/openmc-parallel-python-prints/openmc/build/myvirtualenv/lib/python3.5/site-packages/openmc/mixin.py:68: IDWarning: Another Filter instance already exists with id=15.
+  warn(msg, IDWarning)
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+hm = 1227.4327087024026
+                                %%%%%%%%%%%%%%%
+                           %%%%%%%%%%%%%%%%%%%%%%%%
+                        %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                      %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                                    %%%%%%%%%%%%%%%%%%%%%%%%
+                                     %%%%%%%%%%%%%%%%%%%%%%%%
+                 ###############      %%%%%%%%%%%%%%%%%%%%%%%%
+                ##################     %%%%%%%%%%%%%%%%%%%%%%%
+                ###################     %%%%%%%%%%%%%%%%%%%%%%%
+                ####################     %%%%%%%%%%%%%%%%%%%%%%
+                #####################     %%%%%%%%%%%%%%%%%%%%%
+                ######################     %%%%%%%%%%%%%%%%%%%%
+                #######################     %%%%%%%%%%%%%%%%%%
+                 #######################     %%%%%%%%%%%%%%%%%
+                 ######################     %%%%%%%%%%%%%%%%%
+                  ####################     %%%%%%%%%%%%%%%%%
+                    #################     %%%%%%%%%%%%%%%%%
+                     ###############     %%%%%%%%%%%%%%%%
+                       ############     %%%%%%%%%%%%%%%
+                          ########     %%%%%%%%%%%%%%
+                                      %%%%%%%%%%%
+
+                   | The OpenMC Monte Carlo Code
+         Copyright | 2011-2020 MIT and OpenMC contributors
+           License | https://docs.openmc.org/en/latest/license.html
+           Version | 0.12.0-dev
+         Date/Time | 2020-05-27 10:31:41
+     MPI Processes | 32
+    OpenMP Threads | 32
+
+ Reading settings XML file...
+ Reading cross sections XML file...
+ Reading materials XML file...
+ Reading geometry XML file...
+ Reading O16 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/O16.h5
+ Reading O16 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/008016.h5
+ Reading U235 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/U235.h5
+ Reading U235 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/092235.h5
+ Reading U238 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/U238.h5
+ Reading U238 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/092238.h5
+ Reading C0 from /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/C0.h5
+ Reading C0 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/006000.h5
+ Reading Si28 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Si28.h5
+ Reading Si28 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/014028.h5
+ Reading Si29 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Si29.h5
+ Reading Si29 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/014029.h5
+ Reading Si30 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Si30.h5
+ Reading Si30 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/014030.h5
+ Reading Li6 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Li6.h5
+ Reading Li6 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/003006.h5
+ Reading Li7 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Li7.h5
+ Reading Li7 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/003007.h5
+ Reading Be9 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Be9.h5
+ Reading Be9 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/004009.h5
+ Reading F19 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/F19.h5
+ Reading F19 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/009019.h5
+ Maximum neutron transport energy: 20000000.000000 eV for U235
+ Minimum neutron data temperature: 900.000000 K
+ Maximum neutron data temperature: 1200.000000 K
+ Reading tallies XML file...
+ Preparing distributed cell instances...
+ Writing summary.h5 file...
+ Reading H1 from /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/H1.h5
+ Reading H1 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/001001.h5
+ Reading H2 from /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/H2.h5
+ Reading H2 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/001002.h5
+ Reading H3 from /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/H3.h5
+ Reading H3 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/001003.h5
+ Reading He3 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/He3.h5
+ Reading He3 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/002003.h5
+ Reading He4 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/He4.h5
+ Reading He4 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/002004.h5
+ Reading Be7 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Be7.h5
+ Reading Be7 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/004007.h5
+ Reading B10 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/B10.h5
+ Reading B10 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/005010.h5
+ Reading B11 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/B11.h5
+ Reading B11 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/005011.h5
+ Reading N14 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/N14.h5
+ Reading N14 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/007014.h5
+ Reading N15 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/N15.h5
+ Reading N15 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/007015.h5
+ Reading O17 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/O17.h5
+ Reading O17 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/008017.h5
+ Reading Na22 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Na22.h5
+[0;33m WARNING: Negative value(s) found on probability table for nuclide Na22 at 250K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Na22 at 294K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Na22 at 600K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Na22 at 900K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Na22 at 1200K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Na22 at 2500K
+[0m Reading Na22 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/011022.h5
+ Reading Na23 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Na23.h5
+ Reading Na23 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/011023.h5
+ Reading Mg24 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Mg24.h5
+ Reading Mg24 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/012024.h5
+ Reading Mg25 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Mg25.h5
+ Reading Mg25 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/012025.h5
+ Reading Mg26 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Mg26.h5
+ Reading Mg26 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/012026.h5
+ Reading Al27 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Al27.h5
+ Reading Al27 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/013027.h5
+ Reading P31 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/P31.h5
+ Reading P31 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/015031.h5
+ Reading S32 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/S32.h5
+ Reading S32 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/016032.h5
+ Reading S33 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/S33.h5
+ Reading S33 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/016033.h5
+ Reading S34 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/S34.h5
+ Reading S34 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/016034.h5
+ Reading S36 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/S36.h5
+ Reading S36 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/016036.h5
+ Reading Cl35 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cl35.h5
+ Reading Cl35 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/017035.h5
+ Reading Cl37 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cl37.h5
+ Reading Cl37 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/017037.h5
+ Reading Ar36 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ar36.h5
+[0;33m WARNING: Negative value(s) found on probability table for nuclide Ar36 at 250K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Ar36 at 294K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Ar36 at 600K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Ar36 at 900K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Ar36 at 1200K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Ar36 at 2500K
+[0m Reading Ar36 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/018036.h5
+ Reading Ar38 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ar38.h5
+ Reading Ar38 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/018038.h5
+ Reading Ar40 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ar40.h5
+ Reading Ar40 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/018040.h5
+ Reading K39 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/K39.h5
+ Reading K39 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/019039.h5
+ Reading K40 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/K40.h5
+ Reading K40 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/019040.h5
+ Reading K41 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/K41.h5
+ Reading K41 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/019041.h5
+ Reading Ca40 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ca40.h5
+ Reading Ca40 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/020040.h5
+ Reading Ca42 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ca42.h5
+ Reading Ca42 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/020042.h5
+ Reading Ca43 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ca43.h5
+ Reading Ca43 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/020043.h5
+ Reading Ca44 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ca44.h5
+ Reading Ca44 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/020044.h5
+ Reading Ca46 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ca46.h5
+ Reading Ca46 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/020046.h5
+ Reading Ca48 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ca48.h5
+ Reading Ca48 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/020048.h5
+ Reading Sc45 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sc45.h5
+ Reading Sc45 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/021045.h5
+ Reading Ti46 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ti46.h5
+ Reading Ti46 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/022046.h5
+ Reading Ti47 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ti47.h5
+ Reading Ti47 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/022047.h5
+ Reading Ti48 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ti48.h5
+ Reading Ti48 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/022048.h5
+ Reading Ti49 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ti49.h5
+ Reading Ti49 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/022049.h5
+ Reading Ti50 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ti50.h5
+ Reading Ti50 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/022050.h5
+ Reading V50 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/V50.h5
+ Reading V50 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/023050.h5
+ Reading V51 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/V51.h5
+ Reading V51 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/023051.h5
+ Reading Cr50 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cr50.h5
+ Reading Cr50 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/024050.h5
+ Reading Cr52 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cr52.h5
+ Reading Cr52 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/024052.h5
+ Reading Cr53 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cr53.h5
+ Reading Cr53 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/024053.h5
+ Reading Cr54 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cr54.h5
+ Reading Cr54 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/024054.h5
+ Reading Mn55 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Mn55.h5
+ Reading Mn55 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/025055.h5
+ Reading Fe54 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Fe54.h5
+ Reading Fe54 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/026054.h5
+ Reading Fe56 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Fe56.h5
+ Reading Fe56 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/026056.h5
+ Reading Fe57 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Fe57.h5
+ Reading Fe57 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/026057.h5
+ Reading Fe58 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Fe58.h5
+ Reading Fe58 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/026058.h5
+ Reading Co58 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Co58.h5
+ Reading Co58 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/027058.h5
+ Reading Co58_m1 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Co58_m1.h5
+ Reading Co58_m1 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/027058m1.h5
+ Reading Co59 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Co59.h5
+ Reading Co59 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/027059.h5
+ Reading Ni58 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ni58.h5
+ Reading Ni58 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/028058.h5
+ Reading Ni59 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ni59.h5
+ Reading Ni59 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/028059.h5
+ Reading Ni60 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ni60.h5
+ Reading Ni60 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/028060.h5
+ Reading Ni61 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ni61.h5
+ Reading Ni61 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/028061.h5
+ Reading Ni62 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ni62.h5
+ Reading Ni62 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/028062.h5
+ Reading Ni64 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ni64.h5
+ Reading Ni64 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/028064.h5
+ Reading Cu63 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cu63.h5
+ Reading Cu63 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/029063.h5
+ Reading Cu65 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cu65.h5
+ Reading Cu65 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/029065.h5
+ Reading Zn64 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Zn64.h5
+ Reading Zn64 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/030064.h5
+ Reading Zn65 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Zn65.h5
+ Reading Zn65 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/030065.h5
+ Reading Zn66 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Zn66.h5
+ Reading Zn66 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/030066.h5
+ Reading Zn67 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Zn67.h5
+ Reading Zn67 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/030067.h5
+ Reading Zn68 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Zn68.h5
+ Reading Zn68 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/030068.h5
+ Reading Zn70 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Zn70.h5
+ Reading Zn70 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/030070.h5
+ Reading Ga69 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ga69.h5
+ Reading Ga69 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/031069.h5
+ Reading Ga71 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ga71.h5
+ Reading Ga71 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/031071.h5
+ Reading Ge70 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ge70.h5
+ Reading Ge70 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/032070.h5
+ Reading Ge72 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ge72.h5
+ Reading Ge72 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/032072.h5
+ Reading Ge73 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ge73.h5
+ Reading Ge73 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/032073.h5
+ Reading Ge74 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ge74.h5
+ Reading Ge74 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/032074.h5
+ Reading Ge76 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ge76.h5
+ Reading Ge76 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/032076.h5
+ Reading As74 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/As74.h5
+ Reading As74 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/033074.h5
+ Reading As75 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/As75.h5
+ Reading As75 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/033075.h5
+ Reading Se74 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Se74.h5
+ Reading Se74 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/034074.h5
+ Reading Se76 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Se76.h5
+ Reading Se76 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/034076.h5
+ Reading Se77 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Se77.h5
+ Reading Se77 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/034077.h5
+ Reading Se78 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Se78.h5
+ Reading Se78 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/034078.h5
+ Reading Se79 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Se79.h5
+[0;33m WARNING: Negative value(s) found on probability table for nuclide Se79 at 250K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Se79 at 294K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Se79 at 600K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Se79 at 900K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Se79 at 1200K
+[0m Reading Se79 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/034079.h5
+ Reading Se80 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Se80.h5
+ Reading Se80 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/034080.h5
+ Reading Se82 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Se82.h5
+ Reading Se82 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/034082.h5
+ Reading Br79 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Br79.h5
+ Reading Br79 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/035079.h5
+ Reading Br81 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Br81.h5
+ Reading Br81 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/035081.h5
+ Reading Kr78 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Kr78.h5
+ Reading Kr78 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/036078.h5
+ Reading Kr80 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Kr80.h5
+ Reading Kr80 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/036080.h5
+ Reading Kr82 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Kr82.h5
+ Reading Kr82 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/036082.h5
+ Reading Kr83 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Kr83.h5
+ Reading Kr83 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/036083.h5
+ Reading Kr84 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Kr84.h5
+ Reading Kr84 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/036084.h5
+ Reading Kr85 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Kr85.h5
+ Reading Kr85 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/036085.h5
+ Reading Kr86 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Kr86.h5
+ Reading Kr86 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/036086.h5
+ Reading Rb85 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Rb85.h5
+ Reading Rb85 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/037085.h5
+ Reading Rb86 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Rb86.h5
+ Reading Rb86 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/037086.h5
+ Reading Rb87 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Rb87.h5
+ Reading Rb87 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/037087.h5
+ Reading Sr84 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sr84.h5
+ Reading Sr84 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/038084.h5
+ Reading Sr86 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sr86.h5
+ Reading Sr86 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/038086.h5
+ Reading Sr87 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sr87.h5
+ Reading Sr87 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/038087.h5
+ Reading Sr88 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sr88.h5
+ Reading Sr88 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/038088.h5
+ Reading Sr89 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sr89.h5
+ Reading Sr89 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/038089.h5
+ Reading Sr90 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sr90.h5
+ Reading Sr90 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/038090.h5
+ Reading Y89 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Y89.h5
+ Reading Y89 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/039089.h5
+ Reading Y90 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Y90.h5
+ Reading Y90 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/039090.h5
+ Reading Y91 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Y91.h5
+ Reading Y91 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/039091.h5
+ Reading Zr90 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Zr90.h5
+ Reading Zr90 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/040090.h5
+ Reading Zr91 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Zr91.h5
+ Reading Zr91 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/040091.h5
+ Reading Zr92 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Zr92.h5
+ Reading Zr92 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/040092.h5
+ Reading Zr93 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Zr93.h5
+ Reading Zr93 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/040093.h5
+ Reading Zr94 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Zr94.h5
+ Reading Zr94 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/040094.h5
+ Reading Zr95 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Zr95.h5
+ Reading Zr95 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/040095.h5
+ Reading Zr96 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Zr96.h5
+ Reading Zr96 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/040096.h5
+ Reading Nb93 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Nb93.h5
+ Reading Nb93 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/041093.h5
+ Reading Nb94 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Nb94.h5
+[0;33m WARNING: Negative value(s) found on probability table for nuclide Nb94 at 250K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Nb94 at 294K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Nb94 at 600K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Nb94 at 900K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Nb94 at 1200K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Nb94 at 2500K
+[0m Reading Nb94 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/041094.h5
+ Reading Nb95 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Nb95.h5
+[0;33m WARNING: Negative value(s) found on probability table for nuclide Nb95 at 250K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Nb95 at 294K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Nb95 at 600K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Nb95 at 900K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Nb95 at 1200K
+[0m Reading Nb95 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/041095.h5
+ Reading Mo92 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Mo92.h5
+ Reading Mo92 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/042092.h5
+ Reading Mo94 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Mo94.h5
+ Reading Mo94 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/042094.h5
+ Reading Mo95 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Mo95.h5
+ Reading Mo95 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/042095.h5
+ Reading Mo96 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Mo96.h5
+ Reading Mo96 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/042096.h5
+ Reading Mo97 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Mo97.h5
+ Reading Mo97 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/042097.h5
+ Reading Mo98 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Mo98.h5
+ Reading Mo98 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/042098.h5
+ Reading Mo99 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Mo99.h5
+[0;33m WARNING: Negative value(s) found on probability table for nuclide Mo99 at 250K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Mo99 at 294K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Mo99 at 600K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Mo99 at 900K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Mo99 at 1200K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Mo99 at 2500K
+[0m Reading Mo99 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/042099.h5
+ Reading Mo100 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Mo100.h5
+ Reading Mo100 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/042100.h5
+ Reading Tc99 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Tc99.h5
+ Reading Tc99 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/043099.h5
+ Reading Ru96 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ru96.h5
+ Reading Ru96 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/044096.h5
+ Reading Ru98 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ru98.h5
+ Reading Ru98 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/044098.h5
+ Reading Ru99 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ru99.h5
+ Reading Ru99 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/044099.h5
+ Reading Ru100 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ru100.h5
+ Reading Ru100 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/044100.h5
+ Reading Ru101 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ru101.h5
+ Reading Ru101 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/044101.h5
+ Reading Ru102 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ru102.h5
+ Reading Ru102 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/044102.h5
+ Reading Ru103 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ru103.h5
+ Reading Ru103 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/044103.h5
+ Reading Ru104 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ru104.h5
+ Reading Ru104 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/044104.h5
+ Reading Ru105 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ru105.h5
+ Reading Ru105 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/044105.h5
+ Reading Ru106 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ru106.h5
+ Reading Ru106 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/044106.h5
+ Reading Rh103 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Rh103.h5
+ Reading Rh103 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/045103.h5
+ Reading Rh105 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Rh105.h5
+ Reading Rh105 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/045105.h5
+ Reading Pd102 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pd102.h5
+ Reading Pd102 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/046102.h5
+ Reading Pd104 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pd104.h5
+ Reading Pd104 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/046104.h5
+ Reading Pd105 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pd105.h5
+ Reading Pd105 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/046105.h5
+ Reading Pd106 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pd106.h5
+ Reading Pd106 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/046106.h5
+ Reading Pd107 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pd107.h5
+ Reading Pd107 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/046107.h5
+ Reading Pd108 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pd108.h5
+ Reading Pd108 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/046108.h5
+ Reading Pd110 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pd110.h5
+ Reading Pd110 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/046110.h5
+ Reading Ag107 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ag107.h5
+ Reading Ag107 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/047107.h5
+ Reading Ag109 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ag109.h5
+ Reading Ag109 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/047109.h5
+ Reading Ag110_m1 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ag110_m1.h5
+ Reading Ag110_m1 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/047110m1.h5
+ Reading Ag111 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ag111.h5
+ Reading Ag111 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/047111.h5
+ Reading Cd106 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cd106.h5
+[0;33m WARNING: Negative value(s) found on probability table for nuclide Cd106 at 250K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Cd106 at 294K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Cd106 at 600K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Cd106 at 900K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Cd106 at
+          1200K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Cd106 at
+          2500K
+[0m Reading Cd106 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/048106.h5
+ Reading Cd108 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cd108.h5
+ Reading Cd108 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/048108.h5
+ Reading Cd110 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cd110.h5
+ Reading Cd110 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/048110.h5
+ Reading Cd111 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cd111.h5
+ Reading Cd111 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/048111.h5
+ Reading Cd112 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cd112.h5
+ Reading Cd112 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/048112.h5
+ Reading Cd113 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cd113.h5
+ Reading Cd113 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/048113.h5
+ Reading Cd114 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cd114.h5
+ Reading Cd114 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/048114.h5
+ Reading Cd115_m1 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cd115_m1.h5
+ Reading Cd115_m1 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/048115m1.h5
+ Reading Cd116 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cd116.h5
+ Reading Cd116 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/048116.h5
+ Reading In113 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/In113.h5
+ Reading In113 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/049113.h5
+ Reading In115 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/In115.h5
+ Reading In115 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/049115.h5
+ Reading Sn112 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sn112.h5
+ Reading Sn112 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/050112.h5
+ Reading Sn113 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sn113.h5
+ Reading Sn113 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/050113.h5
+ Reading Sn114 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sn114.h5
+ Reading Sn114 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/050114.h5
+ Reading Sn115 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sn115.h5
+ Reading Sn115 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/050115.h5
+ Reading Sn116 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sn116.h5
+ Reading Sn116 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/050116.h5
+ Reading Sn117 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sn117.h5
+ Reading Sn117 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/050117.h5
+ Reading Sn118 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sn118.h5
+ Reading Sn118 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/050118.h5
+ Reading Sn119 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sn119.h5
+ Reading Sn119 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/050119.h5
+ Reading Sn120 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sn120.h5
+ Reading Sn120 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/050120.h5
+ Reading Sn122 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sn122.h5
+ Reading Sn122 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/050122.h5
+ Reading Sn123 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sn123.h5
+[0;33m WARNING: Negative value(s) found on probability table for nuclide Sn123 at 250K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Sn123 at 294K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Sn123 at 600K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Sn123 at 900K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Sn123 at
+          1200K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Sn123 at
+          2500K
+[0m Reading Sn123 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/050123.h5
+ Reading Sn124 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sn124.h5
+ Reading Sn124 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/050124.h5
+ Reading Sn125 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sn125.h5
+ Reading Sn125 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/050125.h5
+ Reading Sn126 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sn126.h5
+ Reading Sn126 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/050126.h5
+ Reading Sb121 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sb121.h5
+ Reading Sb121 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/051121.h5
+ Reading Sb123 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sb123.h5
+ Reading Sb123 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/051123.h5
+ Reading Sb124 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sb124.h5
+ Reading Sb124 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/051124.h5
+ Reading Sb125 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sb125.h5
+ Reading Sb125 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/051125.h5
+ Reading Sb126 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sb126.h5
+ Reading Sb126 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/051126.h5
+ Reading Te120 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Te120.h5
+[0;33m WARNING: Negative value(s) found on probability table for nuclide Te120 at 600K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Te120 at 900K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Te120 at
+          1200K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Te120 at
+          2500K
+[0m Reading Te120 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/052120.h5
+ Reading Te122 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Te122.h5
+ Reading Te122 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/052122.h5
+ Reading Te123 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Te123.h5
+ Reading Te123 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/052123.h5
+ Reading Te124 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Te124.h5
+ Reading Te124 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/052124.h5
+ Reading Te125 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Te125.h5
+ Reading Te125 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/052125.h5
+ Reading Te126 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Te126.h5
+ Reading Te126 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/052126.h5
+ Reading Te127_m1 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Te127_m1.h5
+ Reading Te127_m1 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/052127m1.h5
+ Reading Te128 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Te128.h5
+ Reading Te128 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/052128.h5
+ Reading Te129_m1 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Te129_m1.h5
+ Reading Te129_m1 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/052129m1.h5
+ Reading Te130 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Te130.h5
+ Reading Te130 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/052130.h5
+ Reading Te132 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Te132.h5
+ Reading Te132 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/052132.h5
+ Reading I127 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/I127.h5
+ Reading I127 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/053127.h5
+ Reading I129 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/I129.h5
+ Reading I129 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/053129.h5
+ Reading I130 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/I130.h5
+ Reading I130 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/053130.h5
+ Reading I131 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/I131.h5
+[0;33m WARNING: Negative value(s) found on probability table for nuclide I131 at 250K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide I131 at 294K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide I131 at 600K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide I131 at 900K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide I131 at 1200K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide I131 at 2500K
+[0m Reading I131 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/053131.h5
+ Reading I135 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/I135.h5
+ Reading I135 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/053135.h5
+ Reading Xe123 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Xe123.h5
+ Reading Xe123 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/054123.h5
+ Reading Xe124 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Xe124.h5
+ Reading Xe124 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/054124.h5
+ Reading Xe126 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Xe126.h5
+ Reading Xe126 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/054126.h5
+ Reading Xe128 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Xe128.h5
+ Reading Xe128 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/054128.h5
+ Reading Xe129 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Xe129.h5
+ Reading Xe129 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/054129.h5
+ Reading Xe130 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Xe130.h5
+ Reading Xe130 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/054130.h5
+ Reading Xe131 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Xe131.h5
+ Reading Xe131 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/054131.h5
+ Reading Xe132 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Xe132.h5
+ Reading Xe132 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/054132.h5
+ Reading Xe133 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Xe133.h5
+[0;33m WARNING: Negative value(s) found on probability table for nuclide Xe133 at
+          2500K
+[0m Reading Xe133 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/054133.h5
+ Reading Xe134 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Xe134.h5
+ Reading Xe134 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/054134.h5
+ Reading Xe135 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Xe135.h5
+ Reading Xe135 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/054135.h5
+ Reading Xe136 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Xe136.h5
+ Reading Xe136 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/054136.h5
+ Reading Cs133 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cs133.h5
+ Reading Cs133 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/055133.h5
+ Reading Cs134 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cs134.h5
+ Reading Cs134 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/055134.h5
+ Reading Cs135 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cs135.h5
+ Reading Cs135 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/055135.h5
+ Reading Cs136 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cs136.h5
+[0;33m WARNING: Negative value(s) found on probability table for nuclide Cs136 at 250K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Cs136 at 294K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Cs136 at 600K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Cs136 at 900K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Cs136 at
+          1200K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Cs136 at
+          2500K
+[0m Reading Cs136 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/055136.h5
+ Reading Cs137 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cs137.h5
+ Reading Cs137 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/055137.h5
+ Reading Ba130 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ba130.h5
+ Reading Ba130 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/056130.h5
+ Reading Ba132 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ba132.h5
+ Reading Ba132 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/056132.h5
+ Reading Ba133 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ba133.h5
+ Reading Ba133 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/056133.h5
+ Reading Ba134 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ba134.h5
+ Reading Ba134 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/056134.h5
+ Reading Ba135 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ba135.h5
+ Reading Ba135 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/056135.h5
+ Reading Ba136 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ba136.h5
+ Reading Ba136 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/056136.h5
+ Reading Ba137 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ba137.h5
+ Reading Ba137 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/056137.h5
+ Reading Ba138 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ba138.h5
+ Reading Ba138 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/056138.h5
+ Reading Ba140 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ba140.h5
+ Reading Ba140 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/056140.h5
+ Reading La138 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/La138.h5
+ Reading La138 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/057138.h5
+ Reading La139 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/La139.h5
+ Reading La139 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/057139.h5
+ Reading La140 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/La140.h5
+ Reading La140 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/057140.h5
+ Reading Ce136 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ce136.h5
+ Reading Ce136 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/058136.h5
+ Reading Ce138 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ce138.h5
+ Reading Ce138 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/058138.h5
+ Reading Ce139 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ce139.h5
+ Reading Ce139 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/058139.h5
+ Reading Ce140 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ce140.h5
+ Reading Ce140 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/058140.h5
+ Reading Ce141 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ce141.h5
+ Reading Ce141 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/058141.h5
+ Reading Ce142 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ce142.h5
+ Reading Ce142 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/058142.h5
+ Reading Ce143 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ce143.h5
+ Reading Ce143 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/058143.h5
+ Reading Ce144 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ce144.h5
+ Reading Ce144 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/058144.h5
+ Reading Pr141 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pr141.h5
+ Reading Pr141 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/059141.h5
+ Reading Pr142 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pr142.h5
+ Reading Pr142 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/059142.h5
+ Reading Pr143 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pr143.h5
+ Reading Pr143 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/059143.h5
+ Reading Nd142 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Nd142.h5
+ Reading Nd142 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/060142.h5
+ Reading Nd143 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Nd143.h5
+ Reading Nd143 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/060143.h5
+ Reading Nd144 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Nd144.h5
+ Reading Nd144 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/060144.h5
+ Reading Nd145 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Nd145.h5
+ Reading Nd145 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/060145.h5
+ Reading Nd146 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Nd146.h5
+ Reading Nd146 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/060146.h5
+ Reading Nd147 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Nd147.h5
+ Reading Nd147 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/060147.h5
+ Reading Nd148 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Nd148.h5
+ Reading Nd148 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/060148.h5
+ Reading Nd150 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Nd150.h5
+ Reading Nd150 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/060150.h5
+ Reading Pm147 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pm147.h5
+ Reading Pm147 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/061147.h5
+ Reading Pm148 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pm148.h5
+ Reading Pm148 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/061148.h5
+ Reading Pm148_m1 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pm148_m1.h5
+ Reading Pm148_m1 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/061148m1.h5
+ Reading Pm149 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pm149.h5
+ Reading Pm149 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/061149.h5
+ Reading Pm151 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pm151.h5
+ Reading Pm151 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/061151.h5
+ Reading Sm144 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sm144.h5
+ Reading Sm144 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/062144.h5
+ Reading Sm147 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sm147.h5
+ Reading Sm147 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/062147.h5
+ Reading Sm148 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sm148.h5
+ Reading Sm148 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/062148.h5
+ Reading Sm149 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sm149.h5
+ Reading Sm149 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/062149.h5
+ Reading Sm150 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sm150.h5
+ Reading Sm150 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/062150.h5
+ Reading Sm151 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sm151.h5
+ Reading Sm151 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/062151.h5
+ Reading Sm152 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sm152.h5
+ Reading Sm152 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/062152.h5
+ Reading Sm153 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sm153.h5
+ Reading Sm153 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/062153.h5
+ Reading Sm154 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Sm154.h5
+ Reading Sm154 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/062154.h5
+ Reading Eu151 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Eu151.h5
+ Reading Eu151 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/063151.h5
+ Reading Eu152 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Eu152.h5
+ Reading Eu152 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/063152.h5
+ Reading Eu153 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Eu153.h5
+ Reading Eu153 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/063153.h5
+ Reading Eu154 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Eu154.h5
+ Reading Eu154 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/063154.h5
+ Reading Eu155 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Eu155.h5
+ Reading Eu155 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/063155.h5
+ Reading Eu156 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Eu156.h5
+[0;33m WARNING: Negative value(s) found on probability table for nuclide Eu156 at 250K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Eu156 at 294K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Eu156 at 600K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Eu156 at 900K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Eu156 at
+          1200K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Eu156 at
+          2500K
+[0m Reading Eu156 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/063156.h5
+ Reading Eu157 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Eu157.h5
+ Reading Eu157 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/063157.h5
+ Reading Gd152 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Gd152.h5
+ Reading Gd152 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/064152.h5
+ Reading Gd153 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Gd153.h5
+ Reading Gd153 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/064153.h5
+ Reading Gd154 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Gd154.h5
+ Reading Gd154 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/064154.h5
+ Reading Gd155 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Gd155.h5
+ Reading Gd155 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/064155.h5
+ Reading Gd156 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Gd156.h5
+ Reading Gd156 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/064156.h5
+ Reading Gd157 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Gd157.h5
+ Reading Gd157 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/064157.h5
+ Reading Gd158 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Gd158.h5
+ Reading Gd158 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/064158.h5
+ Reading Gd160 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Gd160.h5
+ Reading Gd160 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/064160.h5
+ Reading Tb159 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Tb159.h5
+ Reading Tb159 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/065159.h5
+ Reading Tb160 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Tb160.h5
+ Reading Tb160 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/065160.h5
+ Reading Dy156 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Dy156.h5
+ Reading Dy156 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/066156.h5
+ Reading Dy158 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Dy158.h5
+ Reading Dy158 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/066158.h5
+ Reading Dy160 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Dy160.h5
+ Reading Dy160 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/066160.h5
+ Reading Dy161 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Dy161.h5
+ Reading Dy161 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/066161.h5
+ Reading Dy162 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Dy162.h5
+ Reading Dy162 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/066162.h5
+ Reading Dy163 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Dy163.h5
+ Reading Dy163 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/066163.h5
+ Reading Dy164 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Dy164.h5
+ Reading Dy164 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/066164.h5
+ Reading Ho165 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ho165.h5
+ Reading Ho165 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/067165.h5
+ Reading Ho166_m1 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ho166_m1.h5
+ Reading Ho166_m1 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/067166m1.h5
+ Reading Er162 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Er162.h5
+ Reading Er162 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/068162.h5
+ Reading Er164 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Er164.h5
+ Reading Er164 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/068164.h5
+ Reading Er166 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Er166.h5
+ Reading Er166 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/068166.h5
+ Reading Er167 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Er167.h5
+ Reading Er167 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/068167.h5
+ Reading Er168 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Er168.h5
+ Reading Er168 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/068168.h5
+ Reading Er170 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Er170.h5
+ Reading Er170 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/068170.h5
+ Reading Tm168 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Tm168.h5
+ Reading Tm168 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/069168.h5
+ Reading Tm169 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Tm169.h5
+ Reading Tm169 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/069169.h5
+ Reading Tm170 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Tm170.h5
+ Reading Tm170 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/069170.h5
+ Reading Lu175 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Lu175.h5
+ Reading Lu175 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/071175.h5
+ Reading Lu176 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Lu176.h5
+ Reading Lu176 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/071176.h5
+ Reading Hf174 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Hf174.h5
+ Reading Hf174 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/072174.h5
+ Reading Hf176 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Hf176.h5
+ Reading Hf176 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/072176.h5
+ Reading Hf177 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Hf177.h5
+ Reading Hf177 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/072177.h5
+ Reading Hf178 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Hf178.h5
+ Reading Hf178 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/072178.h5
+ Reading Hf179 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Hf179.h5
+ Reading Hf179 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/072179.h5
+ Reading Hf180 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Hf180.h5
+ Reading Hf180 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/072180.h5
+ Reading Ta180 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ta180.h5
+ Reading Ta180 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/073180.h5
+ Reading Ta181 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ta181.h5
+ Reading Ta181 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/073181.h5
+ Reading Ta182 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ta182.h5
+ Reading Ta182 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/073182.h5
+ Reading W180 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/W180.h5
+ Reading W180 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/074180.h5
+ Reading W182 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/W182.h5
+ Reading W182 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/074182.h5
+ Reading W183 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/W183.h5
+ Reading W183 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/074183.h5
+ Reading W184 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/W184.h5
+ Reading W184 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/074184.h5
+ Reading W186 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/W186.h5
+ Reading W186 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/074186.h5
+ Reading Re185 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Re185.h5
+ Reading Re185 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/075185.h5
+ Reading Re187 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Re187.h5
+ Reading Re187 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/075187.h5
+ Reading Ir191 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ir191.h5
+ Reading Ir191 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/077191.h5
+ Reading Ir193 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ir193.h5
+ Reading Ir193 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/077193.h5
+ Reading Au197 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Au197.h5
+ Reading Au197 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/079197.h5
+ Reading Hg196 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Hg196.h5
+ Reading Hg196 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/080196.h5
+ Reading Hg198 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Hg198.h5
+ Reading Hg198 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/080198.h5
+ Reading Hg199 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Hg199.h5
+ Reading Hg199 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/080199.h5
+ Reading Hg200 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Hg200.h5
+ Reading Hg200 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/080200.h5
+ Reading Hg201 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Hg201.h5
+ Reading Hg201 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/080201.h5
+ Reading Hg202 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Hg202.h5
+ Reading Hg202 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/080202.h5
+ Reading Hg204 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Hg204.h5
+ Reading Hg204 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/080204.h5
+ Reading Tl203 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Tl203.h5
+ Reading Tl203 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/081203.h5
+ Reading Tl205 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Tl205.h5
+ Reading Tl205 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/081205.h5
+ Reading Pb204 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pb204.h5
+ Reading Pb204 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/082204.h5
+ Reading Pb206 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pb206.h5
+ Reading Pb206 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/082206.h5
+ Reading Pb207 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pb207.h5
+ Reading Pb207 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/082207.h5
+ Reading Pb208 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pb208.h5
+ Reading Pb208 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/082208.h5
+ Reading Bi209 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Bi209.h5
+ Reading Bi209 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/083209.h5
+ Reading Ra223 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ra223.h5
+ Reading Ra223 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/088223.h5
+ Reading Ra224 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ra224.h5
+ Reading Ra224 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/088224.h5
+ Reading Ra225 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ra225.h5
+ Reading Ra225 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/088225.h5
+ Reading Ra226 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ra226.h5
+ Reading Ra226 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/088226.h5
+ Reading Ac225 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ac225.h5
+ Reading Ac225 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/089225.h5
+ Reading Ac226 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ac226.h5
+ Reading Ac226 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/089226.h5
+ Reading Ac227 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Ac227.h5
+ Reading Ac227 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/089227.h5
+ Reading Th227 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Th227.h5
+ Reading Th227 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/090227.h5
+ Reading Th228 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Th228.h5
+ Reading Th228 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/090228.h5
+ Reading Th229 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Th229.h5
+ Reading Th229 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/090229.h5
+ Reading Th230 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Th230.h5
+ Reading Th230 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/090230.h5
+ Reading Th231 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Th231.h5
+ Reading Th231 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/090231.h5
+ Reading Th232 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Th232.h5
+ Reading Th232 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/090232.h5
+ Reading Th233 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Th233.h5
+ Reading Th233 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/090233.h5
+ Reading Th234 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Th234.h5
+ Reading Th234 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/090234.h5
+ Reading Pa229 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pa229.h5
+ Reading Pa229 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/091229.h5
+ Reading Pa230 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pa230.h5
+ Reading Pa230 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/091230.h5
+ Reading Pa231 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pa231.h5
+ Reading Pa231 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/091231.h5
+ Reading Pa232 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pa232.h5
+ Reading Pa232 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/091232.h5
+ Reading Pa233 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pa233.h5
+ Reading Pa233 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/091233.h5
+ Reading U230 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/U230.h5
+ Reading U230 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/092230.h5
+ Reading U231 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/U231.h5
+ Reading U231 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/092231.h5
+ Reading U232 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/U232.h5
+ Reading U232 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/092232.h5
+ Reading U233 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/U233.h5
+ Reading U233 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/092233.h5
+ Reading U234 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/U234.h5
+ Reading U234 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/092234.h5
+ Reading U236 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/U236.h5
+ Reading U236 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/092236.h5
+ Reading U237 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/U237.h5
+ Reading U237 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/092237.h5
+ Reading U239 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/U239.h5
+ Reading U239 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/092239.h5
+ Reading U240 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/U240.h5
+ Reading U240 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/092240.h5
+ Reading U241 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/U241.h5
+ Reading U241 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/092241.h5
+ Reading Np234 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Np234.h5
+ Reading Np234 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/093234.h5
+ Reading Np235 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Np235.h5
+ Reading Np235 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/093235.h5
+ Reading Np236 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Np236.h5
+ Reading Np236 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/093236.h5
+ Reading Np237 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Np237.h5
+ Reading Np237 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/093237.h5
+ Reading Np238 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Np238.h5
+ Reading Np238 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/093238.h5
+ Reading Np239 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Np239.h5
+ Reading Np239 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/093239.h5
+ Reading Pu236 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pu236.h5
+ Reading Pu236 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/094236.h5
+ Reading Pu237 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pu237.h5
+ Reading Pu237 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/094237.h5
+ Reading Pu238 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pu238.h5
+ Reading Pu238 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/094238.h5
+ Reading Pu239 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pu239.h5
+ Reading Pu239 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/094239.h5
+ Reading Pu240 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pu240.h5
+ Reading Pu240 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/094240.h5
+ Reading Pu241 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pu241.h5
+ Reading Pu241 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/094241.h5
+ Reading Pu242 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pu242.h5
+ Reading Pu242 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/094242.h5
+ Reading Pu243 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pu243.h5
+ Reading Pu243 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/094243.h5
+ Reading Pu244 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pu244.h5
+ Reading Pu244 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/094244.h5
+ Reading Pu246 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Pu246.h5
+ Reading Pu246 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/094246.h5
+ Reading Am240 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Am240.h5
+ Reading Am240 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/095240.h5
+ Reading Am241 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Am241.h5
+ Reading Am241 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/095241.h5
+ Reading Am242 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Am242.h5
+ Reading Am242 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/095242.h5
+ Reading Am242_m1 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Am242_m1.h5
+ Reading Am242_m1 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/095242m1.h5
+ Reading Am243 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Am243.h5
+ Reading Am243 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/095243.h5
+ Reading Am244 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Am244.h5
+ Reading Am244 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/095244.h5
+ Reading Am244_m1 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Am244_m1.h5
+ Reading Am244_m1 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/095244m1.h5
+ Reading Cm240 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cm240.h5
+ Reading Cm240 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/096240.h5
+ Reading Cm241 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cm241.h5
+ Reading Cm241 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/096241.h5
+ Reading Cm242 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cm242.h5
+ Reading Cm242 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/096242.h5
+ Reading Cm243 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cm243.h5
+ Reading Cm243 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/096243.h5
+ Reading Cm244 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cm244.h5
+ Reading Cm244 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/096244.h5
+ Reading Cm245 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cm245.h5
+ Reading Cm245 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/096245.h5
+ Reading Cm246 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cm246.h5
+ Reading Cm246 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/096246.h5
+ Reading Cm247 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cm247.h5
+ Reading Cm247 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/096247.h5
+ Reading Cm248 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cm248.h5
+ Reading Cm248 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/096248.h5
+ Reading Cm249 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cm249.h5
+ Reading Cm249 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/096249.h5
+ Reading Cm250 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cm250.h5
+ Reading Cm250 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/096250.h5
+ Reading Bk245 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Bk245.h5
+ Reading Bk245 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/097245.h5
+ Reading Bk246 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Bk246.h5
+ Reading Bk246 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/097246.h5
+ Reading Bk247 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Bk247.h5
+ Reading Bk247 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/097247.h5
+ Reading Bk248 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Bk248.h5
+ Reading Bk248 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/097248.h5
+ Reading Bk249 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Bk249.h5
+ Reading Bk249 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/097249.h5
+ Reading Bk250 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Bk250.h5
+ Reading Bk250 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/097250.h5
+ Reading Cf246 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cf246.h5
+ Reading Cf246 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/098246.h5
+ Reading Cf248 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cf248.h5
+ Reading Cf248 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/098248.h5
+ Reading Cf249 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cf249.h5
+ Reading Cf249 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/098249.h5
+ Reading Cf250 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cf250.h5
+[0;33m WARNING: Negative value(s) found on probability table for nuclide Cf250 at 250K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Cf250 at 294K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Cf250 at 900K
+[0m[0;33m WARNING: Negative value(s) found on probability table for nuclide Cf250 at
+          1200K
+[0m Reading Cf250 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/098250.h5
+ Reading Cf251 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cf251.h5
+ Reading Cf251 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/098251.h5
+ Reading Cf252 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cf252.h5
+ Reading Cf252 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/098252.h5
+ Reading Cf253 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cf253.h5
+ Reading Cf253 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/098253.h5
+ Reading Cf254 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Cf254.h5
+ Reading Cf254 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/098254.h5
+ Reading Es251 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Es251.h5
+ Reading Es251 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/099251.h5
+ Reading Es252 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Es252.h5
+ Reading Es252 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/099252.h5
+ Reading Es253 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Es253.h5
+ Reading Es253 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/099253.h5
+ Reading Es254 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Es254.h5
+ Reading Es254 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/099254.h5
+ Reading Es254_m1 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Es254_m1.h5
+ Reading Es254_m1 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/099254m1.h5
+ Reading Es255 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Es255.h5
+ Reading Es255 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/099255.h5
+ Reading Fm255 from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/Fm255.h5
+ Reading Fm255 WMP data from
+ /projects/sciteam/bbcc/projects/openmc/data/endfb71_hdf5/wmp/100255.h5
+ Initializing source particles...
+
+ ====================>     K EIGENVALUE SIMULATION     <====================
+
+  Bat./Gen.      k            Average k
+  =========   ========   ====================
+        1/1    1.41169
+        2/1    1.32367
+        3/1    1.39877    1.36122 +/- 0.03755
+        4/1    1.45937    1.39394 +/- 0.03925
+        5/1    1.44243    1.40606 +/- 0.03029
+        6/1    1.46545    1.41794 +/- 0.02629
+        7/1    1.47741    1.42785 +/- 0.02365
+        8/1    1.48763    1.43639 +/- 0.02173
+        9/1    1.44439    1.43739 +/- 0.01885
+       10/1    1.44922    1.43870 +/- 0.01667
+ Creating state point statepoint.10.h5...
+
+ =======================>     TIMING STATISTICS     <=======================
+
+ Total time for initialization     = 7.4325e+00 seconds
+   Reading cross sections          = 5.7215e+00 seconds
+ Total time in simulation          = 6.3571e+01 seconds
+   Time in transport only          = 5.2368e+01 seconds
+   Time in inactive batches        = 3.4038e+00 seconds
+   Time in active batches          = 6.0167e+01 seconds
+   Time synchronizing fission bank = 1.0291e+01 seconds
+     Sampling source sites         = 2.6324e-03 seconds
+     SEND/RECV source sites        = 7.8534e-05 seconds
+   Time accumulating tallies       = 8.4263e-01 seconds
+ Total time for finalization       = 2.8363e-01 seconds
+ Total time elapsed                = 7.1292e+01 seconds
+ Calculation Rate (inactive)       = 293.791 particles/second
+ Calculation Rate (active)         = 149.583 particles/second
+
+ ============================>     RESULTS     <============================
+
+ k-effective (Collision)     = 1.42114 +/- 0.01076
+ k-effective (Track-length)  = 1.43870 +/- 0.01667
+ k-effective (Absorption)    = 1.41994 +/- 0.00848
+ Combined k-effective        = 1.42085 +/- 0.01086
+ Leakage Fraction            = 0.00000 +/- 0.00000
+
+ Creating state point openmc_simulation_n0.h5...
+write bos data 31
+start matrix 31
+end matrix 31
+write bos data 30
+start matrix 30
+end matrix 30
+write bos data 29
+start matrix 29
+end matrix 29
+write bos data 28
+start matrix 28
+end matrix 28
+write bos data 27
+start matrix 27
+write bos data 26
+start matrix 26
+end matrix 26
+write bos data 25
+start matrix 25
+end matrix 25
+write bos data 24
+start matrix 24
+end matrix 24
+write bos data 23
+start matrix 23
+end matrix 23
+write bos data 22
+start matrix 22
+end matrix 22
+write bos data 21
+start matrix 21
+end matrix 21
+write bos data 20
+start matrix 20
+end matrix 20
+write bos data 19
+start matrix 19
+write bos data 18
+start matrix 18
+end matrix 18
+write bos data 17
+start matrix 17
+end matrix 17
+write bos data 16
+start matrix 16
+end matrix 16
+write bos data 15
+start matrix 15
+end matrix 15
+write bos data 14
+start matrix 14
+write bos data 13
+start matrix 13
+end matrix 13
+write bos data 12
+start matrix 12
+write bos data 11
+start matrix 11
+write bos data 10
+start matrix 10
+end matrix 10
+write bos data 9
+start matrix 9
+end matrix 9
+write bos data 8
+start matrix 8
+end matrix 8
+write bos data 7
+start matrix 7
+write bos data 6
+start matrix 6
+write bos data 5
+start matrix 5
+end matrix 5
+write bos data 4
+start matrix 4
+write bos data 3
+start matrix 3
+end matrix 3
+write bos data 2
+start matrix 2
+end matrix 2
+write bos data 1
+start matrix 1
+end matrix 1
+start poool 1t 1590593779.227166
+start poool 2t 1590593779.2268677
+start poool 3t 1590593779.226885
+end matrix 4
+start poool 4t 1590593779.2268465
+start poool 5t 1590593779.2269094
+end matrix 6
+start poool 6t 1590593779.2271075
+end matrix 7
+start poool 7t 1590593779.2271168
+start poool 8t 1590593779.22711
+start poool 9t 1590593779.2271314
+start poool 10t 1590593779.2271261
+end matrix 11
+start poool 11t 1590593779.2270956
+end matrix 12
+start poool 12t 1590593779.227135
+start poool 13t 1590593779.2271059
+end matrix 14
+start poool 14t 1590593779.227351
+start poool 15t 1590593779.2273383
+start poool 16t 1590593779.2273257
+start poool 17t 1590593779.2273552
+start poool 18t 1590593779.227143
+end matrix 19
+start poool 19t 1590593779.2270963
+start poool 20t 1590593779.2269847
+start poool 21t 1590593779.2269068
+start poool 22t 1590593779.2268672
+start poool 23t 1590593779.2269793
+start poool 24t 1590593779.2271273
+start poool 25t 1590593779.2271752
+start poool 26t 1590593779.2271156
+end matrix 27
+start poool 27t 1590593779.2271483
+start poool 28t 1590593779.2270906
+start poool 29t 1590593779.2271342
+start poool 30t 1590593779.2270463
+start poool 31t 1590593779.2270525
+write bos data 0
+start matrix 0
+end matrix 0
+start poool 0t 1590593779.290691
+end poool 14t 1590593785.9817507
+end poool 31t 1590593785.9911609
+end poool 18t 1590593785.9973233
+end poool 27t 1590593785.9980228
+end poool 15t 1590593785.999934
+end poool 4t 1590593785.9996374
+end poool 2t 1590593786.0010061
+end poool 12t 1590593786.0036964
+end poool 26t 1590593786.0041254
+end poool 25t 1590593786.0084689
+end poool 5t 1590593786.0120285
+end poool 10t 1590593787.6534362
+end poool 29t 1590593789.5166087
+end poool 13t 1590593789.5609856
+end poool 21t 1590593789.5678074
+end poool 22t 1590593789.5737743
+end poool 23t 1590593789.5742435
+end poool 1t 1590593789.5829594
+end poool 6t 1590593789.5842807
+end poool 11t 1590593789.5957992
+end poool 30t 1590593789.5975823
+end poool 19t 1590593789.6004941
+end poool 8t 1590593789.6074598
+end poool 9t 1590593789.6109114
+end poool 3t 1590593789.6248317
+end poool 28t 1590593789.6253483
+end poool 16t 1590593789.6287763
+end poool 20t 1590593789.639991
+end poool 17t 1590593789.651544
+end poool 7t 1590593789.6591816
+end poool 24t 1590593789.6783717
