@@ -23,7 +23,7 @@ from tallies import *
 # OpenMC simulation parameters
 batches = 10
 inactive = 1
-particles = 1000
+particles = 100
 tallies_on = False
 
 ###############################################################################
