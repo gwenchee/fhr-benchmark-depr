@@ -9,6 +9,7 @@ benchmark.
 ###############################################################################
 import openmc.deplete
 from case1a_build_xml import *
+import numpy as np
 
 ###############################################################################
 #                                  Run
@@ -24,6 +25,6 @@ operator = openmc.deplete.Operator(geom, settings, chain_file)
 hmop = operator.heavy_metal
 print('hm = ' + str(hmop))
 
-integrator = openmc.deplete.CELIIntegrator(operator=operator, timesteps=bu, timestep_units='Mwd/kg', power=power_GW*1e9)
+integrator = openmc.deplete.CELIIntegrator(operator=operator, timesteps=np.diff(bu), timestep_units='Mwd/kg', power=power_GW*1e9)
 integrator.integrate()
 
