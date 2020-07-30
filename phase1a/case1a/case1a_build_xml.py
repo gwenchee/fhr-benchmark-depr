@@ -32,6 +32,7 @@ tallies_on = True
 
 uoc_9 = openmc.Material()
 uoc_9.set_density('g/cc', 11)
+#uoc_9.set_density('atom/b-cm', 7.038386E-2)
 uoc_9.add_nuclide('U235', 2.27325e-3)
 uoc_9.add_nuclide('U238', 2.269476e-2)
 uoc_9.add_nuclide('O16', 3.561871e-2)
@@ -41,11 +42,14 @@ uoc_9.volume = 4 / 3 * pi * (T_r1 ** 3) * 101 * 210 * 4 * 36
 
 por_c = openmc.Material()
 por_c.set_density('g/cc', 1)
+#por_c.set_density('atom/b-cm', 5.013980E-2)
 por_c.add_nuclide('C0', 5.013980e-2)
+por_c.add_s_alpha_beta('c_Graphite')
 por_c.temperature = 948
 
 si_c = openmc.Material()
 si_c.set_density('g/cc', 3.2)
+#si_c.set_density('atom/b-cm', 9.612234E-2)
 si_c.add_nuclide('Si28', 4.431240e-2)
 si_c.add_nuclide('Si29', 2.25887e-3)
 si_c.add_nuclide('Si30', 1.48990e-3)
@@ -55,25 +59,30 @@ si_c.temperature = 948
 graphite = openmc.Material()
 graphite.set_density('g/cc', 1.8)
 graphite.add_nuclide('C0', 9.025164e-2)
+graphite.add_s_alpha_beta('c_Graphite')
 graphite.temperature = 948
 
 p_graphite = openmc.Material()
 p_graphite.set_density('g/cc', 1.8)
 p_graphite.add_nuclide('C0', 9.025164e-2)
+p_graphite.add_s_alpha_beta('c_Graphite')
 p_graphite.temperature = 948
 
 s_graphite = openmc.Material()
 s_graphite.set_density('g/cc', 1.8)
 s_graphite.add_nuclide('C0', 9.025164e-2)
+s_graphite.add_s_alpha_beta('c_Graphite')
 s_graphite.temperature = 948
 
 lm_graphite = openmc.Material()
 lm_graphite.set_density('g/cc', 1.8)
 lm_graphite.add_nuclide('C0', 9.025164e-2)
+lm_graphite.add_s_alpha_beta('c_Graphite')
 lm_graphite.temperature = 948
 
 flibe = openmc.Material()
 flibe.set_density('g/cc', 1.95)
+#flibe.set_density('atom/b-cm', 8.30097E-2)
 flibe.add_nuclide('Li6', 1.383014e-6)
 flibe.add_nuclide('Li7', 2.37132e-2)
 flibe.add_nuclide('Be9', 1.18573e-2)
@@ -108,6 +117,7 @@ mats = openmc.Materials(
      flibe,
      mhc,
      s_graphite))
+#mats.cross_sections = '/Users/gwenchee/data/endfb71_hdf5/cross_sections.xml'
 mats.export_to_xml()
 
 ###############################################################################
@@ -367,7 +377,7 @@ settings = openmc.Settings()
 settings.batches = batches
 settings.inactive = inactive
 settings.particles = particles
-settings.temperature = {'multipole': True, 'method': 'interpolation'}
+settings.temperature = {'multipole': True,'method': 'interpolation'}
 settings.export_to_xml()
 
 ###############################################################################
