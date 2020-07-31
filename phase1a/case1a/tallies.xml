@@ -126,10 +126,13 @@
     <bins>13</bins>
   </filter>
   <filter id="15" type="energy">
-    <bins>1e-05 3.0 100000.0 20000000.0</bins>
+    <bins>1e-08 3.0 100000.0 30000000.0</bins>
   </filter>
   <filter id="18" type="mesh">
     <bins>14</bins>
+  </filter>
+  <filter id="17" type="energy">
+    <bins>1e-05 3.0 100000.0 20000000.0</bins>
   </filter>
   <filter id="20" type="mesh">
     <bins>15</bins>
@@ -194,7 +197,7 @@
     <scores>flux nu-fission fission kappa-fission fission-q-prompt fission-q-recoverable heating-local heating (n,gamma)</scores>
   </tally>
   <tally id="15" name="mesh tally e">
-    <filters>18 15</filters>
+    <filters>18 17</filters>
     <scores>flux nu-fission fission</scores>
   </tally>
   <tally id="16" name="mesh tally f">
