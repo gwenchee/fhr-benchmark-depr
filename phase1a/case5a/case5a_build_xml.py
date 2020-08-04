@@ -62,7 +62,8 @@ graphite.add_s_alpha_beta('c_Graphite')
 graphite.temperature = 948
 
 p_graphite = openmc.Material()
-p_graphite.set_density('g/cc', 1.8)
+#p_graphite.set_density('g/cc', 1.8)
+p_graphite.set_density('atom/b-cm',9.025966E-2)
 p_graphite.add_nuclide('C0', 9.025164e-2)
 p_graphite.add_nuclide('Eu151', 1.533453e-6)
 p_graphite.add_nuclide('Eu153', 1.674607e-6)
@@ -71,7 +72,8 @@ p_graphite.add_s_alpha_beta('c_Graphite')
 p_graphite.temperature = 948
 
 s_graphite = openmc.Material()
-s_graphite.set_density('g/cc', 1.8)
+#s_graphite.set_density('g/cc', 1.8)
+s_graphite.set_density('atom/b-cm',9.025966E-2)
 s_graphite.add_nuclide('C0', 9.025164e-2)
 s_graphite.add_nuclide('Eu151', 1.533453e-6)
 s_graphite.add_nuclide('Eu153', 1.674607e-6)
