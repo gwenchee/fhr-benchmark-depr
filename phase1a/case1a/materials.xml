@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <materials>
   <material id="1" depletable="true" volume="124.50460305036589" temperature="1110">
-    <density value="11" units="g/cc" />
+    <density value="0.07038386" units="atom/b-cm" />
     <nuclide name="U235" ao="0.00227325" />
     <nuclide name="U238" ao="0.02269476" />
     <nuclide name="O16" ao="0.03561871" />
     <nuclide name="C0" ao="0.00979714" />
   </material>
   <material id="2" temperature="948">
-    <density value="1" units="g/cc" />
+    <density value="0.0501398" units="atom/b-cm" />
     <nuclide name="C0" ao="0.0501398" />
     <sab name="c_Graphite" />
   </material>
   <material id="3" temperature="948">
-    <density value="3.2" units="g/cc" />
+    <density value="0.09612234" units="atom/b-cm" />
     <nuclide name="Si28" ao="0.0443124" />
     <nuclide name="Si29" ao="0.00225887" />
     <nuclide name="Si30" ao="0.0014899" />
@@ -40,7 +40,7 @@
     <sab name="c_Graphite" />
   </material>
   <material id="8" temperature="948">
-    <density value="1.95" units="g/cc" />
+    <density value="0.0830097" units="atom/b-cm" />
     <nuclide name="Li6" ao="1.383014e-06" />
     <nuclide name="Li7" ao="0.0237132" />
     <nuclide name="Be9" ao="0.0118573" />
